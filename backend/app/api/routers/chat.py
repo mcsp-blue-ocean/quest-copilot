@@ -54,7 +54,7 @@ async def chat(
     ]
 
     # query chat engine
-    chat_engine = index.as_chat_engine()
+    chat_engine = index.as_chat_engine(chat_mode='condense_plus_context', verbose=True)
     response = chat_engine.stream_chat(lastMessage.content, messages)
 
     # stream response
