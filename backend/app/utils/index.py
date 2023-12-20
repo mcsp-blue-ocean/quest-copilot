@@ -22,7 +22,7 @@ DATA_DIR = "./data"  # directory containing the documents to index
 
 service_context = ServiceContext.from_defaults(
     llm=Gemini(api_key=GOOGLE_API_KEY, model_name="models/gemini-pro", temperature=1 ),
-    embed_model=GeminiEmbedding(api_key=GOOGLE_API_KEY, model_name="models/embeddings-001" )
+    embed_model=GeminiEmbedding(api_key=GOOGLE_API_KEY, model_name="models/embedding-001" )
 )
 
 def get_index():
