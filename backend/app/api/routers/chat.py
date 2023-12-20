@@ -9,6 +9,8 @@ from llama_index import VectorStoreIndex
 from llama_index.llms.base import MessageRole, ChatMessage
 from pydantic import BaseModel
 
+
+
 chat_router = r = APIRouter()
 
 

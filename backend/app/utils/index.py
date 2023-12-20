@@ -8,14 +8,14 @@ from llama_index import (
     load_index_from_storage,
     ServiceContext,
 )
-from llama_index.llms import OpenAI
+from llama_index.llms import Gemini
 
 
 STORAGE_DIR = "./storage"  # directory to cache the generated index
 DATA_DIR = "./data"  # directory containing the documents to index
 
 service_context = ServiceContext.from_defaults(
-    llm=OpenAI(model="gpt-3.5-turbo")
+    llm=Gemini()
 )
 
 def get_index():
