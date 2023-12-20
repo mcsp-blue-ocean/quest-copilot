@@ -10,6 +10,7 @@ from llama_index import (
     ServiceContext,
 )
 from llama_index.llms import Gemini
+from llama_index.embeddings import GeminiEmbedding
 
 GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY", None)
 
@@ -20,7 +21,8 @@ DATA_DIR = "./data"  # directory containing the documents to index
 
 
 service_context = ServiceContext.from_defaults(
-    llm=Gemini(api_key=GOOGLE_API_KEY, model_name="models/gemini-pro", temperature=1 )
+    llm=Gemini(api_key=GOOGLE_API_KEY, model_name="models/gemini-pro", temperature=1 ),
+    embed_model=GeminiEmbedding(api_key=GOOGLE_API_KEY, model_name="models/embeddings-001" )
 )
 
 def get_index():
