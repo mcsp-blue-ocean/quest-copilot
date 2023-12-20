@@ -1,6 +1,7 @@
 import logging
 import os
 
+
 from llama_index import (
     SimpleDirectoryReader,
     StorageContext,
@@ -8,14 +9,18 @@ from llama_index import (
     load_index_from_storage,
     ServiceContext,
 )
-from llama_index.llms import OpenAI
+from llama_index.llms import Gemini
 
+GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY", None)
 
 STORAGE_DIR = "./storage"  # directory to cache the generated index
 DATA_DIR = "./data"  # directory containing the documents to index
 
+
+
+
 service_context = ServiceContext.from_defaults(
-    llm=OpenAI(model="gpt-3.5-turbo")
+    llm=Gemini(api_key=GOOGLE_API_KEY, model_name="models/gemini-pro", temperature=1 )
 )
 
 def get_index():
