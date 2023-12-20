@@ -1,1 +1,1 @@
-export const MODEL = "gpt-3.5-turbo";
+export const MODEL = "gemini-pro";
