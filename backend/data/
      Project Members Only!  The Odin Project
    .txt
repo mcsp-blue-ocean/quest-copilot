@@ -1,0 +1,163 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![Ruby on Rails](/assets/badge-ruby-on-
+rails-0100b2e2593cbeb4d87e92e9fc9930448581ef43b8ab175d5cfef2b6e7e3f29c.svg)
+](/paths/full-stack-ruby-on-rails/courses/ruby-on-rails)
+
+#  Project: Members Only!
+
+[
+
+##  Ruby on Rails Course
+
+](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-
+on-rails)
+
+### Introduction
+
+In these projects, you’ll be working to implement authentication systems so
+users can only access areas of a site they are authorized to.
+
+### Project: Members only!
+
+In this project, you’ll be building an exclusive clubhouse where your members
+can write anonymous posts. Inside the clubhouse, members can see who the
+author of a post is but, outside, they can only see the story and wonder who
+wrote it.
+
+If you want to add your own stylistic flourishes, consider it extra credit.
+
+### Your task
+
+The projects will be less and less explicit about how to achieve their goals,
+since we expect you to build on your previous knowledge. If you don’t know how
+to do something, feel free to check back in previous lessons or projects or
+Google the correct way to implement it (though be careful, because that may
+take you deeper down the road than we intended).
+
+If you’d like to challenge yourself, don’t even follow the steps below, just
+go ahead and build the app!
+
+#### Basic setup
+
+  1. Think about and spec out how to set up your data models for this application. You’ll need users with the usual simple identification attributes like name, email and password. They’ll need to create posts as well.
+  2. Create your new `members-only` Rails app and GitHub repo. Update your README.
+  3. Add devise to your Gemfile and install it in your app using set up instructions on the devise [README](https://github.com/heartcombo/devise)
+
+_note: For getting Devise to play nicely with Turbo Drive, be sure you
+read[this section](https://github.com/heartcombo/devise#hotwireturbo) of the
+Devise README. You’ll need to install the [Responders
+gem](https://github.com/heartcombo/responders). Make sure that in addition to
+adding the gem to your Gemfile that you also run the install generator. You’ll
+also need to specify delete requests on your links/buttons for signing the
+user out. More detailed information can be found in [Devise’s Guide for
+Hotwire Turbo Integration](https://github.com/heartcombo/devise/wiki/How-
+To:-Upgrade-to-Devise-4.9.0-%5BHotwire-Turbo-integration%5D)._
+
+#### Authentication and posts
+
+Let’s build those secrets! We’ll need to make sure only signed in users can
+see the author of each post. We’re not going to worry about editing or
+deleting posts.
+
+  1. Create a Post model and a Posts controller and a corresponding resource in your Routes file which allows the `[:new, :create, :index]` methods.
+  2. Atop your Posts Controller, use a `#before_action` to restrict access to the `#new` and `#create` methods to only users who are signed in.
+  3. For your Posts Controller, prepare your `#new` action.
+  4. Write a very simple form in the `app/views/posts/new.html.erb` view which will create a new Post.
+  5. Make your corresponding `#create` action build a post where the foreign key for the author (e.g. `user_id`) is automatically populated based on whichever user is signed in. Redirect to the Index view if successful.
+  6. Fill out the `#index` action of the PostsController and create the corresponding view. The view should show a list of every post.
+  7. Now add logic in your Index view to display the author’s name, but only if a user is signed in.
+  8. Sign in and create a few secret posts.
+  9. Test it out – sign out and go to the index page. You should see a list of the posts but no author names. Sign in and the author names should appear. Your secrets are safe!
+
+### Additional resources
+
+This section contains helpful links to other content. It isn’t required, so
+consider it supplemental.
+
+  * [Railscasts #250 Authentication from Scratch](http://railscasts.com/episodes/250-authentication-from-scratch-revised)
+  * [Railscasts #274 Remember Me & Reset Password](http://railscasts.com/episodes/274-remember-me-reset-password)
+  * Watch [A Twitter Clone Lets Build with Ruby on Rails Part 1](https://www.youtube.com/watch?v=loYfUpwoLlM&t=3s) and [A Twitter Clone Lets Build with Ruby on Rails Part 2](https://www.youtube.com/watch?v=fyj70TbS75c&t=474s). If you still need more inspiration for this project or want more insight then the rest of this tutorial series is a good resource.
+
+[ Improve on GitHub Github logo icon Improve on GitHub
+](https://github.com/TheOdinProject/curriculum/edit/main/ruby_on_rails/forms_and_authentication/project_members_only.md)
+[ Report an issueReport icon Report an issue
+](https://github.com/TheOdinProject/curriculum/issues/new?labels=Status%3A+Needs+Triage&lesson-
+link=https%3A%2F%2Fwww.theodinproject.com%2Flessons%2Fruby-on-rails-members-
+only&template=suggestion.yaml&title=Members+Only%21%3A+%3CShort+description+of+your+suggestion%3E)
+
+#### Lesson contents
+
+Only logged in users can view user submissions for this project
+
+[ View courseGo to course page View Course ](/paths/full-stack-ruby-on-
+rails/courses/ruby-on-rails) [Sign in to track progress](/sign_in) [ Next
+lessonGo to next lesson Next Lesson ](/lessons/ruby-on-rails-installing-
+postgresql)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

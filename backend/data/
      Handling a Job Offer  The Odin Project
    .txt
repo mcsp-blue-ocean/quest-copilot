@@ -1,0 +1,144 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![Getting Hired](/assets/badge-getting-
+hired-03b3463749a1cd7dd5358c585b0c35c2878bbde91aa0800f641992eeb69f7c66.svg)
+](/paths/full-stack-javascript/courses/getting-hired)
+
+#  Handling a Job Offer
+
+[
+
+##  Getting Hired Course
+
+](https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-
+hired)
+
+### Introduction
+
+If you kicked butt, you’ll get an offer. That means there’s a pretty good
+chance you’ll get to work there, but just remember that not all “offers”
+(especially verbal-only ones) are actually real. It’s a good time to be happy
+because you did well but don’t expect that it’s a done deal. We’ve seen
+companies pull offers for internal reasons or external reasons – the point is
+that it happens, so don’t go buying a house until you’ve signed the documents.
+If it’s just a verbal offer, ask them to email you the details.
+
+DO NOT ACCEPT RIGHT AWAY! This is doubly true if you don’t think it’s a good
+offer. This is an important point for you – they’ve been totally in control of
+the process until now and they’ve probably dragged their feet because they can
+(who knows, an even better developer might show up, right?). Now it’s your
+turn. They’ve put in a lot of effort so far and any reasonable company isn’t
+going to let you walk away over a few days or a few thousand dollars. They
+should give you at least a week to decide.
+
+One big factor is compensation. The person making the offer usually has
+discretion to bump it up a bit (maybe $5k in Silicon Valley, probably less
+elsewhere) without asking their manager, so it’s often a good idea to
+negotiate the first offer. Maybe you’re negotiating salary, vacation,
+relocation bonuses, or personal project status. It doesn’t matter, your
+position is a whole lot better while you’re holding that offer.
+
+What’s the best thing you can do? GET ANOTHER OFFER! There’s nothing nearly as
+good when negotiating as another offer from another company which gives you
+the ability to walk away. You shouldn’t be shamelessly callous and
+capitalistic about it (the goal isn’t to piss off everyone who gave you
+offers), but do take advantage of this!
+
+Not only that, but remember all those companies that dragged their feet and
+you hadn’t heard back from? Send every one of them (who you are realistically
+interested in) an email explaining that you have an offer and need to make a
+decision relatively quickly. See if that doesn’t help them speed you along in
+the process and maybe get you that other offer. As soon as you have an offer
+to work with, you suddenly have all that social proof you never had before
+since you haven’t worked anywhere else. Use it.
+
+Once you’ve worked through your negotiation and hopefully had the chance to
+rank multiple offers, the decision must be made. That’s a good choice to have
+to make. Congratulations! Now you get paid to keep learning.
+
+### Links
+
+  * [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/) \- Long blog but worth the read to get in the right mindset.
+  * [Negotiating your Startup Offer from Rob.by](https://web.archive.org/web/20180626035838/http://rob.by/2013/negotiating-your-startup-job-offer/) gets into the equity component of some offers.
+
+[ Improve on GitHub Github logo icon Improve on GitHub
+](https://github.com/TheOdinProject/curriculum/edit/main/getting_hired/applying_and_interviewing/handling_an_offer.md)
+[ Report an issueReport icon Report an issue
+](https://github.com/TheOdinProject/curriculum/issues/new?labels=Status%3A+Needs+Triage&lesson-
+link=https%3A%2F%2Fwww.theodinproject.com%2Flessons%2Fnode-path-getting-hired-
+handling-a-job-
+offer&template=suggestion.yaml&title=Handling+a+Job+Offer%3A+%3CShort+description+of+your+suggestion%3E)
+
+#### Lesson contents
+
+[ View courseGo to course page View Course ](/paths/full-stack-
+javascript/courses/getting-hired) [Sign in to track progress](/sign_in) [ Next
+lessonGo to next lesson Next Lesson ](/lessons/node-path-getting-hired-
+conclusion)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

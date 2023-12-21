@@ -1,0 +1,120 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![React](/assets/badge-
+react-d347c579ca6df9afc0ef4127bb4fe6dc4002be06cb241f4d70b37c412f56cec2.svg)
+](/paths/full-stack-javascript/courses/react)
+
+#  Project: Memory Card
+
+[
+
+##  React Course
+
+](https://www.theodinproject.com/paths/full-stack-javascript/courses/react)
+
+### Introduction
+
+Here we go again with a new project! Let’s make sure you understand the
+concepts so far. The main goal of this project is to implement the concepts
+learned so far by using hooks to manage and utilize state while fetching and
+using data from an external API.
+
+### How the game works
+
+Go play around [with this student’s
+solution](https://heldersrvio.github.io/memory-card-game/) to find out for
+yourself how the Memory game works. Although this example uses cartoon
+characters, you can use anything you like for your game.
+
+### Assignment
+
+  1. Create a new React Project.
+  2. Take some time to think about the features you want to implement, which components you need, how to structure your application, and how to get the images from an API. Your application should include a scoreboard, which counts the current score, and a “Best Score”, which shows the highest score you’ve achieved thus far. There should be a function that displays the cards in a random order anytime a user clicks one. Be sure to invoke that function when the component mounts.
+  3. You also need a handful of cards that display images and possibly informational text. These cards and texts need to be fetched from an external API. You can use anything from [Giphy](https://giphy.com/) to a [Pokemon API](https://pokeapi.co/).
+  4. Now that you’ve thought about the structure of your application, set up the folder structure and start creating the components.
+  5. Style your application so you can show it off!
+  6. As always, push the project to GitHub, and don’t forget to deploy it.
+
+[ Improve on GitHub Github logo icon Improve on GitHub
+](https://github.com/TheOdinProject/curriculum/edit/main/react/states_and_effects/project_memory_card.md)
+[ Report an issueReport icon Report an issue
+](https://github.com/TheOdinProject/curriculum/issues/new?labels=Status%3A+Needs+Triage&lesson-
+link=https%3A%2F%2Fwww.theodinproject.com%2Flessons%2Fnode-path-react-new-
+memory-
+card&template=suggestion.yaml&title=Memory+Card%3A+%3CShort+description+of+your+suggestion%3E)
+
+#### Lesson contents
+
+Only logged in users can view user submissions for this project
+
+[ View courseGo to course page View Course ](/paths/full-stack-
+javascript/courses/react) [Sign in to track progress](/sign_in) [ Next
+lessonGo to next lesson Next Lesson ](/lessons/node-path-react-new-class-
+based-components)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

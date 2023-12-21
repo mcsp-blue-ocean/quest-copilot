@@ -1,0 +1,126 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![Intermediate HTML and CSS](/assets/badge-html-
+css-91bc8d9c7ebb2e2f73eeb302c38a92d9ba6f182301dbd1868d7198fcc8376aeb.svg)
+](/paths/full-stack-javascript/courses/intermediate-html-and-css)
+
+#  Introduction
+
+[
+
+##  Intermediate HTML and CSS Course
+
+](https://www.theodinproject.com/paths/full-stack-
+javascript/courses/intermediate-html-and-css)
+
+### Introduction
+
+This is the first of the two part course where we dig deeper into HTML and
+CSS.
+
+Our foundations lessons by design only scratched the surface of what’s
+possible. We wanted to give you all of the bare necessities for getting
+started so you could move on and be somewhat productive as quickly as
+possible, but now it’s time to slow down and dig in!
+
+You have probably realized by now that there are many more HTML elements than
+we mentioned in our foundations content. Throughout this course, we’ll be
+hitting the rest of the important elements such as forms and tables.
+
+There is also a _lot_ more that you can do with CSS that you’ll learn
+throughout this course, such as variables, functions, shadows and of course
+grid layouts! So buckle up! By the time you finish this course, you’ll be able
+to recreate just about any web design you can find on the internet… which is
+an important skill to carry forward. Even if you are not shooting for a front-
+end specific job, being able to make your portfolio pieces look nice is
+important when it comes to making yourself stand out.
+
+You’ll learn about animations, accessibility, and responsive design in the
+second part of this course later in the curriculum.
+
+### Assignment
+
+  1. Read through this [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) to get an overview of what other HTML elements are available to you. No need to commit this to memory because you’ll be learning the important parts as we go, but having a glance now will help the content stick later.
+  2. Take a glance at a somewhat overwhelming looking [CSS Cheat Sheet](https://htmlcheatsheet.com/css/). Again, we don’t need you to learn anything specific, or memorize anything from this list. Just use it to get a feel for what you still have left to learn!
+
+[ Improve on GitHub Github logo icon Improve on GitHub
+](https://github.com/TheOdinProject/curriculum/edit/main/intermediate_html_css/intermediate_html_concepts/introduction.md)
+[ Report an issueReport icon Report an issue
+](https://github.com/TheOdinProject/curriculum/issues/new?labels=Status%3A+Needs+Triage&lesson-
+link=https%3A%2F%2Fwww.theodinproject.com%2Flessons%2Fnode-path-intermediate-
+html-and-css-
+introduction&template=suggestion.yaml&title=Introduction%3A+%3CShort+description+of+your+suggestion%3E)
+
+#### Lesson contents
+
+[ View courseGo to course page View Course ](/paths/full-stack-
+javascript/courses/intermediate-html-and-css) [Sign in to track
+progress](/sign_in) [ Next lessonGo to next lesson Next Lesson
+](/lessons/node-path-intermediate-html-and-css-emmet)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

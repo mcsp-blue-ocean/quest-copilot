@@ -1,0 +1,126 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![Ruby on Rails](/assets/badge-ruby-on-
+rails-0100b2e2593cbeb4d87e92e9fc9930448581ef43b8ab175d5cfef2b6e7e3f29c.svg)
+](/paths/full-stack-ruby-on-rails/courses/ruby-on-rails)
+
+#  Project: Blog App
+
+[
+
+##  Ruby on Rails Course
+
+](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-
+on-rails)
+
+### Introduction
+
+In this project, you’ll get the opportunity to actually build a real Rails
+application. It’s not a trivially simple one either – it’s got a lot of
+wrinkles and things that you’re not going to understand.
+
+To be honest, you’re kind of going into the deep end so don’t worry if you
+don’t understand what exactly you’re doing in all the steps. The point here is
+to get familiar with the process of creating a Rails app, what things
+generally look like, and what you don’t know. When you get to the end of this
+project, you can consider yourself remarkably persistent and resilient.
+
+### Assignment
+
+  1. Do the [The Ruby on Rails Guides: Getting Started](https://guides.rubyonrails.org/getting_started.html) project up to section 9.2. It ties together the Model-View-Controller and gives a pretty good overview of the common commands you’ll use when using Rails. The remainder of the tutorial covers topics that have not been introduced, like concerns and authentication, so it is hard to understand the big picture. In addition, these sections can be confusing because the instructions do not follow the same copy/paste pattern.
+  2. You should have Rails installed already so section 3.1 might not be relevant. It might still be prudent to run the `--version` commands to check you have everything you need though.
+  3. Make sure you commit to Git regularly so if you run into any issues you can revert to an earlier commit without having to start over from scratch. As a rough guide look to commit at the end of each section.
+  4. Pay attention to any error messages you get as you build the app, even though they’ll be unplanned. You’ll see all these messages again and again when you’re building Rails apps, so it’s helpful to start getting familiar with which portions of the message you should pay attention to (and maybe put into Google if you can’t figure out what caused it).
+  5. Try to make a mental note of the commands and generators you can use. Rails provides a lot of very helpful generators taking a lot of the pain out of creating different parts of a web application.
+  6. When you’re finished, push your code up to [GitHub](https://github.com/).
+
+### Additional resources
+
+This section contains helpful links to other content. It isn’t required, so
+consider it supplemental.
+
+  * The [official Ruby on Rails guides](http://guides.rubyonrails.org/) are an excellent resource if you want to build on your knowledge.
+  * You can read the [Introduction to Core Ruby Tools](https://launchschool.com/books/core_ruby_tools/read/introduction) from LaunchSchool to get a better understanding of Ruby and Rails concepts such as gems, version managers, bundler, and rake.
+  * The first 30-minutes of this [video](https://youtu.be/rssgWqJq-14) will teach you how to see through of the magical syntax of Ruby on Rails and how to use pry to debug.
+
+[ Improve on GitHub Github logo icon Improve on GitHub
+](https://github.com/TheOdinProject/curriculum/edit/main/ruby_on_rails/rails_basics/project_blog_app.md)
+[ Report an issueReport icon Report an issue
+](https://github.com/TheOdinProject/curriculum/issues/new?labels=Status%3A+Needs+Triage&lesson-
+link=https%3A%2F%2Fwww.theodinproject.com%2Flessons%2Fruby-on-rails-blog-
+app&template=suggestion.yaml&title=Blog+App%3A+%3CShort+description+of+your+suggestion%3E)
+
+#### Lesson contents
+
+Only logged in users can view user submissions for this project
+
+[ View courseGo to course page View Course ](/paths/full-stack-ruby-on-
+rails/courses/ruby-on-rails) [Sign in to track progress](/sign_in) [ Next
+lessonGo to next lesson Next Lesson ](/lessons/ruby-on-rails-deployment)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

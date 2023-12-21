@@ -1,0 +1,353 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![Ruby on Rails](/assets/badge-ruby-on-
+rails-0100b2e2593cbeb4d87e92e9fc9930448581ef43b8ab175d5cfef2b6e7e3f29c.svg)
+](/paths/full-stack-ruby-on-rails/courses/ruby-on-rails)
+
+[
+
+#  Ruby on Rails Course
+
+](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-
+on-rails)
+
+## Overview
+
+Take Ruby to the next level with the Ruby on Rails framework! Learn how to
+fully craft your site's backend using the Model-View-Controller design
+pattern. You'll gain the confidence to launch a website in under an hour.
+
+###  Introduction
+
+[ Lesson
+
+How This Course Will Work
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-how-this-course-will-
+work)
+
+[ Lesson
+
+Introduction to the Back End
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-introduction-to-the-
+back-end)
+
+[ Lesson
+
+Introduction to Frameworks
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-introduction-to-
+frameworks)
+
+[ Project
+
+Project: Installing Rails
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-installing-rails)
+
+[ Lesson
+
+A Railsy Web Refresher
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-a-railsy-web-refresher)
+
+###  Rails Basics
+
+[ Lesson
+
+Routing
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-routing)
+
+[ Lesson
+
+Controllers
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-controllers)
+
+[ Lesson
+
+Views
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-views)
+
+[ Project
+
+Project: Blog App
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-blog-app)
+
+[ Lesson
+
+Deployment
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-deployment)
+
+###  Active Record Basics
+
+[ Lesson
+
+Active Record Basics
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-active-record-basics)
+
+[ Project
+
+Project: Micro-Reddit
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-micro-reddit)
+
+###  Assets and Navigation
+
+[ Lesson
+
+The Asset Pipeline
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-the-asset-pipeline)
+
+[ Lesson
+
+Importmaps
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-importmaps)
+
+[ Lesson
+
+Turbo Drive
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-turbo-drive)
+
+###  Forms and Authentication
+
+[ Lesson
+
+Form Basics
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-form-basics)
+
+[ Project
+
+Project: Forms
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-forms)
+
+[ Lesson
+
+Sessions Cookies and Authentication
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-sessions-cookies-and-
+authentication)
+
+[ Project
+
+Project: Members Only!
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-members-only)
+
+###  Advanced Forms and Active Record
+
+[ Lesson
+
+Installing PostgreSQL
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-installing-postgresql)
+
+[ Lesson
+
+Active Record Queries
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-active-record-queries)
+
+[ Lesson
+
+Active Record Associations
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-active-record-
+associations)
+
+[ Project
+
+Project: Private Events
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-private-events)
+
+[ Lesson
+
+Active Record Callbacks
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-active-record-
+callbacks)
+
+[ Lesson
+
+Advanced Forms
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-advanced-forms)
+
+[ Project
+
+Project: Flight Booker
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-flight-booker)
+
+###  APIs
+
+[ Lesson
+
+APIs and Building Your Own
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-apis-and-building-your-
+own)
+
+[ Lesson
+
+Working with External APIs
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-working-with-external-
+apis)
+
+[ Project
+
+Project: Kittens API
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-kittens-api)
+
+[ Project
+
+Project: Flickr API
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-flickr-api)
+
+###  Rails Sprinkles
+
+[ Lesson
+
+CSS Bundling
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-css-bundling)
+
+[ Lesson
+
+JS Bundling
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-js-bundling)
+
+[ Lesson
+
+Turbo
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-turbo)
+
+[ Lesson
+
+Stimulus
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-stimulus)
+
+###  Mailers and Advanced Topics
+
+[ Lesson
+
+Mailers
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-mailers)
+
+[ Project
+
+Project: Sending Confirmation Emails
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-sending-confirmation-
+emails)
+
+[ Lesson
+
+Advanced Topics
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-advanced-topics)
+
+[ Lesson
+
+Websockets and Actioncable
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-websockets-and-
+actioncable)
+
+[ Project
+
+Project: Rails Final Project
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-rails-final-project)
+
+[ Lesson
+
+Conclusion
+
+](https://www.theodinproject.com/lessons/ruby-on-rails-conclusion)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

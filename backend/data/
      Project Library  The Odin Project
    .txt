@@ -1,0 +1,128 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![JavaScript](/assets/badge-
+javascript-626af7075a7914bc4f30bd941268ed883785c3fb29b3e9d023eb5ab6450353bb.svg)
+](/paths/full-stack-javascript/courses/javascript)
+
+#  Project: Library
+
+[
+
+##  JavaScript Course
+
+](https://www.theodinproject.com/paths/full-stack-
+javascript/courses/javascript)
+
+### Introduction
+
+Let’s extend the ‘Book’ example from the previous lesson and turn it into a
+small Library app.
+
+### Assignment
+
+  1. If you haven’t already, set up your project with skeleton HTML/CSS and JS files.
+  2. All of your book objects are going to be stored in a simple array, so add a function to the script (not the constructor) that can take user’s input and store the new book objects into an array. Your code should look something like this:
+    
+        const myLibrary = [];
+    
+    function Book() {
+      // the constructor...
+    }
+    
+    function addBookToLibrary() {
+      // do stuff here
+    }
+    
+
+  3. Write a function that loops through the array and displays each book on the page. You can display them in some sort of table, or each on their own “card”. It might help for now to manually add a few books to your array so you can see the display.
+  4. Add a “NEW BOOK” button that brings up a form allowing users to input the details for the new book: author, title, number of pages, whether it’s been read and anything else you might want. How you decide to display this form is up to you. For example, you may wish to have a form show in a sidebar or you may wish to explore [dialogs and modals](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog) using the `<dialog>` tag. However you do this, you will most likely encounter an issue where submitting your form will not do what you expect it to do. That’s because the `submit` input tries to send the data to a server by default. If you’ve done the bonus section for the calculator assignment, you might be familiar with `event.preventDefault();`. Read up on the [event.preventDefault documentation](https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault) again and see how you can solve this issue!
+  5. Add a button on each book’s display to remove the book from the library. 
+    1. You will need to associate your DOM elements with the actual book objects in some way. One easy solution is giving them a data-attribute that corresponds to the index of the library array.
+  6. Add a button on each book’s display to change its `read` status. 
+    1. To facilitate this you will want to create the function that toggles a book’s `read` status on your `Book` prototype instance.
+
+NOTE: You’re not required to add any type of storage right now. You will have
+the option to come back to this project later on in the course.
+
+[ Improve on GitHub Github logo icon Improve on GitHub
+](https://github.com/TheOdinProject/curriculum/edit/main/javascript/organizing_your_javascript_code/project_library.md)
+[ Report an issueReport icon Report an issue
+](https://github.com/TheOdinProject/curriculum/issues/new?labels=Status%3A+Needs+Triage&lesson-
+link=https%3A%2F%2Fwww.theodinproject.com%2Flessons%2Fnode-path-javascript-
+library&template=suggestion.yaml&title=Library%3A+%3CShort+description+of+your+suggestion%3E)
+
+#### Lesson contents
+
+Only logged in users can view user submissions for this project
+
+[ View courseGo to course page View Course ](/paths/full-stack-
+javascript/courses/javascript) [Sign in to track progress](/sign_in) [ Next
+lessonGo to next lesson Next Lesson ](/lessons/node-path-javascript-factory-
+functions-and-the-module-pattern)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

@@ -1,0 +1,347 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![JavaScript](/assets/badge-
+javascript-626af7075a7914bc4f30bd941268ed883785c3fb29b3e9d023eb5ab6450353bb.svg)
+](/paths/full-stack-javascript/courses/javascript)
+
+[
+
+#  JavaScript Course
+
+](https://www.theodinproject.com/paths/full-stack-
+javascript/courses/javascript)
+
+## Overview
+
+Make your websites dynamic and interactive with JavaScript! You'll create
+features and stand-alone applications. This module includes projects where you
+will learn how to manipulate the DOM, use object-oriented programming
+principles, and fetch real-world data using APIs.
+
+###  Introduction
+
+[ Lesson
+
+How This Course Will Work
+
+](https://www.theodinproject.com/lessons/node-path-javascript-how-this-course-
+will-work)
+
+[ Lesson
+
+A Quick Review
+
+](https://www.theodinproject.com/lessons/node-path-javascript-a-quick-review)
+
+###  Organizing Your Javascript Code
+
+[ Lesson
+
+Organizing Your Javascript Code Introduction
+
+](https://www.theodinproject.com/lessons/node-path-javascript-organizing-your-
+javascript-code-introduction)
+
+[ Lesson
+
+Objects and Object Constructors
+
+](https://www.theodinproject.com/lessons/node-path-javascript-objects-and-
+object-constructors)
+
+[ Project
+
+Project: Library
+
+](https://www.theodinproject.com/lessons/node-path-javascript-library)
+
+[ Lesson
+
+Factory Functions and the Module Pattern
+
+](https://www.theodinproject.com/lessons/node-path-javascript-factory-
+functions-and-the-module-pattern)
+
+[ Project
+
+Project: Tic Tac Toe
+
+](https://www.theodinproject.com/lessons/node-path-javascript-tic-tac-toe)
+
+[ Lesson
+
+Classes
+
+](https://www.theodinproject.com/lessons/node-path-javascript-classes)
+
+[ Lesson
+
+ES6 Modules
+
+](https://www.theodinproject.com/lessons/node-path-javascript-es6-modules)
+
+[ Lesson
+
+Webpack
+
+](https://www.theodinproject.com/lessons/node-path-javascript-webpack)
+
+[ Project
+
+Project: Restaurant Page
+
+](https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page)
+
+[ Lesson
+
+OOP Principles
+
+](https://www.theodinproject.com/lessons/node-path-javascript-oop-principles)
+
+[ Project
+
+Project: Todo List
+
+](https://www.theodinproject.com/lessons/node-path-javascript-todo-list)
+
+###  JavaScript in the Real World
+
+[ Lesson
+
+Linting
+
+](https://www.theodinproject.com/lessons/node-path-javascript-linting)
+
+[ Lesson
+
+Dynamic User Interface Interactions
+
+](https://www.theodinproject.com/lessons/node-path-javascript-dynamic-user-
+interface-interactions)
+
+[ Lesson
+
+Form Validation with JavaScript
+
+](https://www.theodinproject.com/lessons/node-path-javascript-form-validation-
+with-javascript)
+
+[ Lesson
+
+What is ES6?
+
+](https://www.theodinproject.com/lessons/node-path-javascript-what-is-es6)
+
+###  Asynchronous JavaScript and APIs
+
+[ Lesson
+
+JSON
+
+](https://www.theodinproject.com/lessons/node-path-javascript-json)
+
+[ Lesson
+
+Asynchronous Code
+
+](https://www.theodinproject.com/lessons/node-path-javascript-asynchronous-
+code)
+
+[ Lesson
+
+Working with APIs
+
+](https://www.theodinproject.com/lessons/node-path-javascript-working-with-
+apis)
+
+[ Lesson
+
+Async and Await
+
+](https://www.theodinproject.com/lessons/node-path-javascript-async-and-await)
+
+[ Project
+
+Project: Weather App
+
+](https://www.theodinproject.com/lessons/node-path-javascript-weather-app)
+
+###  A Bit of Computer Science
+
+[ Lesson
+
+A Very Brief Intro to CS
+
+](https://www.theodinproject.com/lessons/javascript-a-very-brief-intro-to-cs)
+
+[ Lesson
+
+Recursive Methods
+
+](https://www.theodinproject.com/lessons/javascript-recursive-methods)
+
+[ Project
+
+Project: Recursion
+
+](https://www.theodinproject.com/lessons/javascript-recursion)
+
+[ Lesson
+
+Time Complexity
+
+](https://www.theodinproject.com/lessons/javascript-time-complexity)
+
+[ Lesson
+
+Space Complexity
+
+](https://www.theodinproject.com/lessons/javascript-space-complexity)
+
+[ Lesson
+
+Common Data Structures and Algorithms
+
+](https://www.theodinproject.com/lessons/javascript-common-data-structures-
+and-algorithms)
+
+[ Project
+
+Project: Linked Lists
+
+](https://www.theodinproject.com/lessons/javascript-linked-lists)
+
+[ Project
+
+Project: Binary Search Trees
+
+](https://www.theodinproject.com/lessons/javascript-binary-search-trees)
+
+[ Project
+
+Project: Knights Travails
+
+](https://www.theodinproject.com/lessons/javascript-knights-travails)
+
+###  Intermediate Git
+
+[ Lesson
+
+A Deeper Look at Git
+
+](https://www.theodinproject.com/lessons/javascript-a-deeper-look-at-git)
+
+[ Lesson
+
+Working with Remotes
+
+](https://www.theodinproject.com/lessons/javascript-working-with-remotes)
+
+[ Lesson
+
+Using Git in the Real World
+
+](https://www.theodinproject.com/lessons/javascript-using-git-in-the-real-
+world)
+
+###  Testing JavaScript
+
+[ Lesson
+
+Testing Basics
+
+](https://www.theodinproject.com/lessons/node-path-javascript-testing-basics)
+
+[ Project
+
+Project: Testing Practice
+
+](https://www.theodinproject.com/lessons/node-path-javascript-testing-
+practice)
+
+[ Lesson
+
+More Testing
+
+](https://www.theodinproject.com/lessons/node-path-javascript-more-testing)
+
+[ Project
+
+Project: Battleship
+
+](https://www.theodinproject.com/lessons/node-path-javascript-battleship)
+
+###  Finishing Up with JavaScript
+
+[ Lesson
+
+Conclusion
+
+](https://www.theodinproject.com/lessons/node-path-javascript-conclusion)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

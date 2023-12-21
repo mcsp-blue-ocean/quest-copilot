@@ -1,0 +1,159 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![JavaScript](/assets/badge-
+javascript-626af7075a7914bc4f30bd941268ed883785c3fb29b3e9d023eb5ab6450353bb.svg)
+](/paths/full-stack-javascript/courses/javascript)
+
+#  Project: Recursion
+
+[
+
+##  JavaScript Course
+
+](https://www.theodinproject.com/paths/full-stack-
+javascript/courses/javascript)
+
+### Warmup: Fibonacci
+
+The [Fibonacci Sequence](http://en.wikipedia.org/wiki/Fibonacci_number), which
+sums each number with the one before it, is a great example of a problem that
+can be solved recursively.
+
+### Assignment 1
+
+  1. Using iteration, write a function `fibs` which takes a number and returns an array containing that many numbers from the Fibonacci sequence. Using an example input of `8`, this function should return the array `[0, 1, 1, 2, 3, 5, 8, 13]`.
+  2. Now write another function `fibsRec` which solves the same problem recursively.
+
+In order to run these functions you’ll need to run it from somewhere. You can
+run scripts from the command line using the node command installed with
+nodejs. You can read about the common ways to do this
+[here](https://github.com/nodejs/nodejs.dev/blob/aa4239e87a5adc992fdb709c20aebb5f6da77f86/content/learn/command-
+line/node-run-cli.en.md).
+
+#### Understanding recursive Fibonacci
+
+Did you figure it out? Congratulations! But do you really understand what is
+taking place? If you need some help understanding what’s going on with this
+function, give [Khan Academy’s Stepping Through Recursive Fibonacci Function
+video](https://www.youtube.com/watch?v=zg-ddPbzcKM) a watch. If you prefer to
+read, [Recursive Fibonacci Explained](https://www.scaler.com/topics/fibonacci-
+series-in-javascript/) is also very helpful!
+
+### Project: merge sort
+
+Sorting algorithms are a great way to get to grips with recursion. One such
+algorithm is [Merge Sort](http://en.wikipedia.org/wiki/Merge_sort), a type of
+sort that lends itself well to recursion and can be much faster than other
+algorithms such as bubble sort on the right data sets. You’ll build a function
+which sorts a given array but uses a “merge sort” function for doing so.
+
+It can be a bit strange to wrap your head around, but just remember you’re
+“dividing and conquering” the problem.
+
+### Background viewing
+
+The first step is to actually understand what the merge sort algorithm is
+doing:
+
+  1. Check out this [introductory video from Harvard’s CS50x course](https://youtu.be/Ns7tGNbtvV4).
+  2. Check out this more [detailed video explanation by David J. Malan](https://youtu.be/4oqjcKenCH8?t=6248) (watch only until 1:58:33).
+  3. [The concept of merging](https://youtu.be/6pV2IF0fgKY) and [Merge Sort – How it Works part ](https://youtu.be/mB5HXBb_HY8) on YouTube give you a more formal look at this problem if you’re still unclear.
+  4. (Optional) Play with this [Merge Sort Visualizer](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/visualize/) to get a better feel for exactly what is happening during a Merge Sort.
+
+### Assignment 2
+
+  1. Build a function `mergeSort` that takes in an array and returns a sorted array, using a recursive merge sort methodology.
+  2. Tips: 
+    1. Think about what the base case is and what behavior is happening again and again and can actually be delegated to someone else (e.g. that same function!).
+    2. It may be helpful to check out the background videos again if you don’t quite understand what should be going on.
+
+### Additional resources
+
+This section contains helpful links to other content. It isn’t required, so
+consider it supplemental.
+
+  * Another look at [merge sort](http://www.sorting-algorithms.com/merge-sort)
+  * Visualize and [understand](https://www.educative.io/courses/recursion-for-coding-interviews-in-javascript/NEZ7kKgMJKK) the memory allocation for recursive functions
+  * For more attempts at recursion try the first 5 problems in [Project Euler](https://projecteuler.net/problems)
+
+[ Improve on GitHub Github logo icon Improve on GitHub
+](https://github.com/TheOdinProject/curriculum/edit/main/javascript/computer_science/project_recursion.md)
+[ Report an issueReport icon Report an issue
+](https://github.com/TheOdinProject/curriculum/issues/new?labels=Status%3A+Needs+Triage&lesson-
+link=https%3A%2F%2Fwww.theodinproject.com%2Flessons%2Fjavascript-
+recursion&template=suggestion.yaml&title=Recursion%3A+%3CShort+description+of+your+suggestion%3E)
+
+#### Lesson contents
+
+Only logged in users can view user submissions for this project
+
+[ View courseGo to course page View Course ](/paths/full-stack-
+javascript/courses/javascript) [Sign in to track progress](/sign_in) [ Next
+lessonGo to next lesson Next Lesson ](/lessons/javascript-time-complexity)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

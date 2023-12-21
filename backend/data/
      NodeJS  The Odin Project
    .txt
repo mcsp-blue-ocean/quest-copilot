@@ -1,0 +1,272 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![NodeJS](/assets/badge-
+nodejs-1432a58382afd13f5bf55d4e5eda07244a3aa5fae9cee98ea034f17d6a09d503.svg)
+](/paths/full-stack-javascript/courses/nodejs)
+
+[
+
+#  NodeJS Course
+
+](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs)
+
+## Overview
+
+Take your JavaScript skills to the server-side! Learn how to fully craft your
+site's backend using Express, the most popular back-end JavaScript framework!
+You will also learn how to use a non-relational database, MongoDB.
+
+###  Introduction to NodeJS
+
+[ Lesson
+
+Introduction to the Back End
+
+](https://www.theodinproject.com/lessons/nodejs-introduction-to-the-back-end)
+
+[ Lesson
+
+Introduction to Frameworks
+
+](https://www.theodinproject.com/lessons/nodejs-introduction-to-frameworks)
+
+[ Lesson
+
+Introduction: What is NodeJS?
+
+](https://www.theodinproject.com/lessons/nodejs-introduction-what-is-nodejs)
+
+[ Lesson
+
+Getting Started
+
+](https://www.theodinproject.com/lessons/nodejs-getting-started)
+
+[ Lesson
+
+Debugging Node
+
+](https://www.theodinproject.com/lessons/nodejs-debugging-node)
+
+[ Project
+
+Project: Basic Informational Site
+
+](https://www.theodinproject.com/lessons/nodejs-basic-informational-site)
+
+###  MongoDB
+
+[ Lesson
+
+Introduction to MongoDB
+
+](https://www.theodinproject.com/lessons/nodejs-introduction-to-mongodb)
+
+###  Express & Mongoose
+
+[ Lesson
+
+Introduction to Express
+
+](https://www.theodinproject.com/lessons/nodejs-introduction-to-express)
+
+[ Lesson
+
+Express 101
+
+](https://www.theodinproject.com/lessons/nodejs-express-101)
+
+[ Lesson
+
+Express 102: CRUD and MVC
+
+](https://www.theodinproject.com/lessons/nodejs-express-102-crud-and-mvc)
+
+[ Project
+
+Project: Mini Message Board
+
+](https://www.theodinproject.com/lessons/nodejs-mini-message-board)
+
+[ Lesson
+
+Deployment
+
+](https://www.theodinproject.com/lessons/nodejs-deployment)
+
+[ Lesson
+
+Express 103: Routes and Controllers
+
+](https://www.theodinproject.com/lessons/nodejs-express-103-routes-and-
+controllers)
+
+[ Lesson
+
+Express 104: View Templates
+
+](https://www.theodinproject.com/lessons/nodejs-express-104-view-templates)
+
+[ Project
+
+Project: Express 105: Forms and Deployment
+
+](https://www.theodinproject.com/lessons/nodejs-express-105-forms-and-
+deployment)
+
+[ Project
+
+Project: Inventory Application
+
+](https://www.theodinproject.com/lessons/nodejs-inventory-application)
+
+###  Authentication
+
+[ Lesson
+
+Authentication Basics
+
+](https://www.theodinproject.com/lessons/nodejs-authentication-basics)
+
+[ Lesson
+
+Security Configuration
+
+](https://www.theodinproject.com/lessons/nodejs-security-configuration)
+
+[ Project
+
+Project: Members Only
+
+](https://www.theodinproject.com/lessons/nodejs-members-only)
+
+###  APIs
+
+[ Lesson
+
+API Basics
+
+](https://www.theodinproject.com/lessons/nodejs-api-basics)
+
+[ Lesson
+
+API Security
+
+](https://www.theodinproject.com/lessons/nodejs-api-security)
+
+[ Project
+
+Project: Blog API
+
+](https://www.theodinproject.com/lessons/nodejs-blog-api)
+
+###  Testing Express
+
+[ Lesson
+
+Testing Routes and Controllers
+
+](https://www.theodinproject.com/lessons/nodejs-testing-routes-and-
+controllers)
+
+[ Lesson
+
+Testing Database Operations
+
+](https://www.theodinproject.com/lessons/nodejs-testing-database-operations)
+
+###  Full Stack Projects
+
+[ Project
+
+Project: Where's Waldo (A Photo Tagging App)
+
+](https://www.theodinproject.com/lessons/nodejs-where-s-waldo-a-photo-tagging-
+app)
+
+[ Project
+
+Project: Messaging App
+
+](https://www.theodinproject.com/lessons/nodejs-messaging-app)
+
+###  FINAL PROJECT
+
+[ Project
+
+Project: Odin-Book
+
+](https://www.theodinproject.com/lessons/nodejs-odin-book)
+
+[ Lesson
+
+Conclusion
+
+](https://www.theodinproject.com/lessons/nodejs-conclusion)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

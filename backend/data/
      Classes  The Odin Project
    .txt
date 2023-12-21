@@ -1,0 +1,176 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![JavaScript](/assets/badge-
+javascript-626af7075a7914bc4f30bd941268ed883785c3fb29b3e9d023eb5ab6450353bb.svg)
+](/paths/full-stack-javascript/courses/javascript)
+
+#  Classes
+
+[
+
+##  JavaScript Course
+
+](https://www.theodinproject.com/paths/full-stack-
+javascript/courses/javascript)
+
+### Introduction
+
+JavaScript does _not_ have classes in the same sense as other Object Oriented
+languages like Java or Ruby. ES6, however, _did_ introduce a syntax for object
+creation that uses the `class` keyword. It is basically a new syntax that does
+the _exact_ same thing as the object constructors and prototypes we learned
+about in the constructor lesson.
+
+There is a bit of controversy about using the class syntax, however. Opponents
+argue that `class` is basically just _syntactic sugar_ over the existing
+prototype-based constructors and that it’s dangerous and/or misleading to
+obscure what’s _really_ going on with these objects. Despite the controversy,
+classes are beginning to crop up in real code bases that you are almost
+certainly going to encounter such as frameworks like React (especially if you
+end up working with class-based React code).
+
+Since we’ve already gone fairly in-depth with Constructors, you don’t have too
+much left to learn here beyond the new syntax. If you choose to use classes in
+your code (that’s fine!) you can use them much the same way as object
+constructors.
+
+### Lesson overview
+
+This section contains a general overview of topics that you will learn in this
+lesson.
+
+  * Describe the pros and cons of using classes in JavaScript.
+  * Briefly discuss how JavaScript’s object creation differs from a language like Java or Ruby.
+  * Explain the differences between an object constructor and a class.
+  * Explain what “getters” and “setters” are.
+  * Understand what computed names and class fields are.
+  * Explain how to implement private class fields and methods.
+  * Describe function binding.
+  * Use inheritance with classes.
+  * Understand why composition is generally preferred to inheritance.
+
+### Assignment
+
+  1. [JavaScript.info’s article on Getters and Setters](https://javascript.info/property-accessors) should get you up to speed on “Getters and Setters”.
+
+  2. [This article](https://javascript.info/class) is probably just about all you need to start using `class` syntax confidently.
+
+  3. [The MDN docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes) are, as usual, a great resource for going a little deeper. Look especially at the [‘extends’ reference page](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/extends), including the [‘Mixins’ section](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/extends#mix-ins). In some frameworks like React, you can use classes to create your components and make them `extend` the core React component which gives you access to all their built-in functionality (though this is not the only way to create components. This will all be covered later in React section of the course). Classes can also have [private features](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Private_class_fields) that allow you to implement privacy similarly to factory functions.
+
+  4. Classes can have [static properties and methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/static) which are properties and methods that are accessed on the class itself and not on the instance of a class. This is similar to how some string methods are accessed on the instance of a string itself e.g. `someString.slice(0, 5)` whereas some methods are called on the String constructor directly e.g. `String.fromCharCode(79, 100, 105, 110)`.
+
+  5. Read [this article covering opinions regarding the pros and cons of classes](https://medium.com/@rajaraodv/is-class-in-es6-the-new-bad-part-6c4e6fe1ee65). [FunFunFunction’s video on Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA) elaborates on the cons mentioned in the article and does a great job of going over the topic.
+
+### Practice
+
+Go back to your [Library](https://www.theodinproject.com/lessons/node-path-
+javascript-library) project and refactor it to use `class` instead of plain
+constructors. Don’t forget to use the git workflow you learned in [this
+foundations lesson](https://www.theodinproject.com/lessons/foundations-
+revisiting-rock-paper-scissors) to work on a new feature. You should get used
+to working like this!
+
+### Knowledge check
+
+This section contains questions for you to check your understanding of this
+lesson. If you’re having trouble answering the questions below on your own,
+review the material above to find the answer.
+
+  * [Describe the pros and cons of using classes in JavaScript.](https://rajaraodv.medium.com/is-class-in-es6-the-new-bad-part-6c4e6fe1ee65)
+  * [How does JavaScript’s object creation differ from a language like Java or Ruby?](https://rajaraodv.medium.com/is-class-in-es6-the-new-bad-part-6c4e6fe1ee65)
+  * [Explain the differences between object constructors and classes.](https://javascript.info/class#not-just-a-syntactic-sugar)
+  * [What are “getters” & “setters”?](https://javascript.info/property-accessors)
+  * [Describe computed names and class fields.](https://javascript.info/class)
+  * [Describe function binding.](https://javascript.info/class)
+  * [Describe static properties.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/static)
+  * [Describe private class features.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Private_class_fields)
+  * [How is inheritance used with classes?](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes#inheritance)
+  * [Why is favoring Composition over Inheritance suggested?](https://www.youtube.com/watch?v=wfMtDGfHWpA)
+
+### Additional resources
+
+This section contains helpful links to other content. It isn’t required, so
+consider it supplemental.
+
+  * [This playlist](https://www.youtube.com/playlist?list=PLtwj5TTsiP7uTKfTQbcmb59mWXosLP_7S) from Stephen Mayeux, explains ES6 Classes and some of their methods with easy to follow examples.
+
+[ Improve on GitHub Github logo icon Improve on GitHub
+](https://github.com/TheOdinProject/curriculum/edit/main/javascript/organizing_your_javascript_code/classes.md)
+[ Report an issueReport icon Report an issue
+](https://github.com/TheOdinProject/curriculum/issues/new?labels=Status%3A+Needs+Triage&lesson-
+link=https%3A%2F%2Fwww.theodinproject.com%2Flessons%2Fnode-path-javascript-
+classes&template=suggestion.yaml&title=Classes%3A+%3CShort+description+of+your+suggestion%3E)
+
+#### Lesson contents
+
+[ View courseGo to course page View Course ](/paths/full-stack-
+javascript/courses/javascript) [Sign in to track progress](/sign_in) [ Next
+lessonGo to next lesson Next Lesson ](/lessons/node-path-javascript-
+es6-modules)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

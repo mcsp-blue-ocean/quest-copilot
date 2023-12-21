@@ -1,0 +1,164 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![Ruby](/assets/badge-
+ruby-d91c1849066ed424531394e9d693dd99aaef49bcee15a96f462a1ae54c359af0.svg)
+](/paths/full-stack-ruby-on-rails/courses/ruby)
+
+#  Project: Custom Enumerables
+
+[
+
+##  Ruby Course
+
+](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby)
+
+### Introduction
+
+You should be very familiar with the Enumerable module that gets mixed into
+the Array and Hash classes (among others) and provides you with lots of handy
+iterator methods. To prove that there’s no magic to it, you’re going to
+rebuild those methods.
+
+We will explain an example of how an enumerable works to give you an idea of
+how to start tackling these methods. Specifically we’re going to break down
+the `#find` enumerable method. The `#find` method finds the first element that
+matches the given block’s condition and returns it. If one isn’t found, it
+returns `nil`.
+
+    
+    
+    a = [1, 2, 3, 4]
+    a.find { |n| n == 2 }
+    # results in `2`
+    
+    a.find { |n| n == 10 }
+    # results in `nil`
+    
+
+Now the question is how would we rebuild this method using our knowledge of
+yield and blocks? Let’s go over the example shown below line by line.
+
+    
+    
+    module Enumerable
+      def my_find
+        self.each do |elem|
+          return elem if yield(elem)
+        end
+    
+        nil
+      end
+    end
+    
+    a = [1, 2, 3]
+    a.my_find { |n| n == 2 }
+    #=> 2
+    
+
+First of all, we’re doing something you’ve maybe not seen before here:
+manipulating an existing class/module in the Ruby language. Ruby allows you to
+do this. We can reopen the `Enumerable` module and add our custom methods
+there.
+
+With `self.each`, we’re calling the `#each` method on the object instance
+that’s invoking this method. In the example, this will end up being an array.
+So `self` will refer to the array that’s calling `#my_find`. We can then use
+the `#each` method to iterate through its elements. Now this is where `yield`
+becomes extremely useful. When called inside of the `#my_find` method, `yield`
+will give control to the block that has been provided for `#my_find`. In the
+usage example just below the definition, we can see the `{ |n| n == 2 }` block
+is passed to the `#my_find` method. Inside of `#my_find`, each element in the
+array gets yielded to that block as an argument.
+
+If the block returns `true`/truthy for an element, we immediately `return`
+that element. If nothing is found, we’ll iterate all the way through the array
+and end up executing the `nil` return at the very end. Pretty cool, huh? Now
+it’s time for you to practice:
+
+### Assignment
+
+  1. Fork and clone our [custom enumerables repo](https://github.com/TheOdinProject/custom_enumerable_project)
+  2. Follow the [instructions in the README](https://github.com/TheOdinProject/custom_enumerable_project#installation) to get the repo setup locally
+  3. Rebuild each of [the methods in this table](https://github.com/TheOdinProject/custom_enumerable_project#methods) and make sure they all pass the tests associated with them.
+
+[ Improve on GitHub Github logo icon Improve on GitHub
+](https://github.com/TheOdinProject/curriculum/edit/main/ruby/advanced_ruby/project_custom_enumerables.md)
+[ Report an issueReport icon Report an issue
+](https://github.com/TheOdinProject/curriculum/issues/new?labels=Status%3A+Needs+Triage&lesson-
+link=https%3A%2F%2Fwww.theodinproject.com%2Flessons%2Fruby-custom-
+enumerables&template=suggestion.yaml&title=Custom+Enumerables%3A+%3CShort+description+of+your+suggestion%3E)
+
+#### Lesson contents
+
+Only logged in users can view user submissions for this project
+
+[ View courseGo to course page View Course ](/paths/full-stack-ruby-on-
+rails/courses/ruby) [Sign in to track progress](/sign_in) [ Next lessonGo to
+next lesson Next Lesson ](/lessons/ruby-a-very-brief-intro-to-cs)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

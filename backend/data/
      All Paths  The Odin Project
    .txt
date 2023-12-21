@@ -1,0 +1,132 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+# All Paths
+
+[ ![Foundations](/assets/badge-
+foundations-4a1f6ae4009e6156a289aef0a3897283ff0e3fe1af6b5795aaf7260619dc11f4.svg)
+](/paths/foundations)
+
+[
+
+## Foundations
+
+](/paths/foundations)
+
+Explore
+
+This is where it all begins! A hands-on introduction to all of the essential
+tools you'll need to build real, working websites. You'll learn what web
+developers actually do and the foundations you'll need for later courses.
+
+Explore
+
+Then choose a learning path:
+
+[ ![Full Stack Ruby on Rails](/assets/badge-ruby-on-
+rails-0100b2e2593cbeb4d87e92e9fc9930448581ef43b8ab175d5cfef2b6e7e3f29c.svg)
+](/paths/full-stack-ruby-on-rails)
+
+PATH
+
+8 Courses
+
+[
+
+##  Full Stack Ruby on Rails
+
+](/paths/full-stack-ruby-on-rails)
+
+This path takes you through our entire Ruby on Rails curriculum. The courses
+should be taken in the order that they are displayed. You'll learn everything
+you need to know to create beautiful responsive websites from scratch using
+Ruby on Rails.
+
+Explore
+
+[ ![Full Stack JavaScript](/assets/badge-
+javascript-626af7075a7914bc4f30bd941268ed883785c3fb29b3e9d023eb5ab6450353bb.svg)
+](/paths/full-stack-javascript)
+
+PATH
+
+6 Courses
+
+[
+
+##  Full Stack JavaScript
+
+](/paths/full-stack-javascript)
+
+This path takes you through our entire JavaScript curriculum. The courses
+should be taken in the order that they are displayed. You'll learn everything
+you need to know to create beautiful responsive websites from scratch using
+JavaScript and NodeJS.
+
+Explore
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

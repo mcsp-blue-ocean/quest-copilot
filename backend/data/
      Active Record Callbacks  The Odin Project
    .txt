@@ -1,0 +1,230 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![Ruby on Rails](/assets/badge-ruby-on-
+rails-0100b2e2593cbeb4d87e92e9fc9930448581ef43b8ab175d5cfef2b6e7e3f29c.svg)
+](/paths/full-stack-ruby-on-rails/courses/ruby-on-rails)
+
+#  Active Record Callbacks
+
+[
+
+##  Ruby on Rails Course
+
+](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-
+on-rails)
+
+### Introduction
+
+Callbacks are a common way for you to execute code at specific times in the
+life cycle of an Active Record object, for instance just before it is created,
+after it is saved, or after it is destroyed. These can be very useful if
+you’ve got something to execute whenever an object hits one of those lifecycle
+points, like modifying the user’s email to be lowercase when creating her
+account. Callbacks are a way of saying something like “Hey Active Record, when
+you’ve finished creating a new User object, give me a call so I can run this
+method before anything else happens.”
+
+This is a brief section on a useful topic. The Rails Guide reading provides
+good coverage of it, so our summary will be necessarily brief.
+
+### Lesson overview
+
+This section contains a general overview of topics that you will learn in this
+lesson.
+
+  * What a callback is used for.
+  * The major lifecycle stages of an Active Record object.
+  * How to build an “around” callback.
+  * How to specify a particular action to run a callback for.
+
+### The life cycle of an active record object
+
+Callbacks provide hooks into specific points (either before, after, or
+sometimes “around”) in the life cycle of an object. Those life cycle moments
+are:
+
+  * **Initialization** – When the object is first built OR whenever it is reloaded from the database and into memory (so any time you find it in a query).
+  * **Validation** – Whenever Rails checks if the object is valid. That could be when you’re trying to save it or if you’ve manually run the `#valid?` method.
+  * **Saving** – The actual act of saving an already-built object to the database. This is triggered any time the object is saved, not just the first time it is created.
+  * **Creating** – The creation and saving of a new object.
+  * **Updating** – The updating of an existing object.
+  * **Finding** – The query of existing objects (e.g., `#all`, `#first`, `#find`). This is often triggered by Rails working with objects behind the scenes.
+
+You often get three choices for callbacks. Not all object lifecycle steps
+support all callbacks, but the basic three are (using `create` as an example):
+
+  1. `before_create` – Runs the method before the stated action
+  2. `after_create ` – Runs the method after the stated action
+  3. `around_create` – A bit trickier. In this one, you will write a method which actually `yield`s at some point to the original action. That way you can have code before it and after it and YOU decide at which point the original action gets done. Not entirely common.
+
+### Using callbacks
+
+To use a callback, you need to “register” it at the top of your Model by using
+the appropriate method (e.g. `before_create`). You pass that method either a
+symbol which corresponds to a method name or you could just write the callback
+as a block then and there. Rails will hang onto that method and call it at the
+appropriate time. For example:
+
+    
+    
+      # app/models/user.rb
+      class User < ActiveRecord::Base
+    
+        before_create do |user|
+          puts "about to create #{user.name}"
+        end
+    
+        after_create :just_created
+    
+        private
+    
+        def just_created
+          puts "just created a user"
+        end
+      end
+    
+
+### Specifying callback characteristics
+
+Callbacks give you several options for narrowing down or selecting
+specifically when you want them to run. If you only want to run a callback
+when a particular controller action calls it, use the `:on` option, which
+takes either a single symbol or a full array, e.g. `before_create :run_code,
+:on => [:create, :update]`.
+
+You can also use conditional logic options `:if` and `:unless` to try a method
+before running callbacks, for instance:
+
+    
+    
+      before_create :run_code, :unless => :method_is_true
+    
+      private
+    
+      def method_is_true
+        true
+      end
+    
+
+### Transaction callbacks
+
+Sometimes your Rails app will need to interact with an external application
+(which is inherently imperfect) as a part of the save process. Other times
+your save will involve juggling several balls at once and, if one fails, they
+all need to be rolled back. Typically these cases will involve wrapping your
+database save operation in a “transaction,” which means that either all the
+steps work or they all fail and are rolled back.
+
+The `commit`ting of a transaction and its potential `rollback` if it fails are
+both lifecycle events that you can latch onto with callbacks, e.g.
+`after_commit` and `before_rollback`. This is uncommon, so consider it another
+one of those “just remember that it’s an option” type things.
+
+### Assignment
+
+  1. Read through the [Rails Guide on Callbacks](http://guides.rubyonrails.org/active_record_callbacks.html)
+  2. Read [this post from Samuel Mullen](https://samuelmullen.com/articles/guidelines-for-using-activerecord-callbacks) on guidelines for using callbacks.
+
+### Conclusion
+
+Callbacks are useful and many, like `:after_create` and `:before_destroy`, are
+pretty common. There’s no rocket science here, just a helpful concept.
+
+### Additional resources
+
+This section contains helpful links to other content. It isn’t required, so
+consider it supplemental.
+
+  * [WikiBooks Reference on Callbacks](http://en.wikibooks.org/wiki/Ruby_on_Rails/ActiveRecord/Callbacks)
+
+### Knowledge check
+
+This section contains questions for you to check your understanding of this
+lesson. If you’re having trouble answering the questions below on your own,
+review the material above to find the answer.
+
+  * How do you register a callback?
+  * What events happen in an Active Record object’s lifecycle?
+  * How can you make a callback run under specific conditions?
+  * [When are transaction callbacks most useful?](https://guides.rubyonrails.org/active_record_callbacks.html#transaction-callbacks)
+
+[ Improve on GitHub Github logo icon Improve on GitHub
+](https://github.com/TheOdinProject/curriculum/edit/main/ruby_on_rails/advanced_forms_and_activerecord/active_record_callbacks.md)
+[ Report an issueReport icon Report an issue
+](https://github.com/TheOdinProject/curriculum/issues/new?labels=Status%3A+Needs+Triage&lesson-
+link=https%3A%2F%2Fwww.theodinproject.com%2Flessons%2Fruby-on-rails-active-
+record-
+callbacks&template=suggestion.yaml&title=Active+Record+Callbacks%3A+%3CShort+description+of+your+suggestion%3E)
+
+#### Lesson contents
+
+[ View courseGo to course page View Course ](/paths/full-stack-ruby-on-
+rails/courses/ruby-on-rails) [Sign in to track progress](/sign_in) [ Next
+lessonGo to next lesson Next Lesson ](/lessons/ruby-on-rails-advanced-forms)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

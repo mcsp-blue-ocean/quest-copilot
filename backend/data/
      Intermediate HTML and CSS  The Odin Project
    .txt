@@ -1,0 +1,252 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![Intermediate HTML and CSS](/assets/badge-html-
+css-91bc8d9c7ebb2e2f73eeb302c38a92d9ba6f182301dbd1868d7198fcc8376aeb.svg)
+](/paths/full-stack-javascript/courses/intermediate-html-and-css)
+
+[
+
+#  Intermediate HTML and CSS Course
+
+](https://www.theodinproject.com/paths/full-stack-
+javascript/courses/intermediate-html-and-css)
+
+## Overview
+
+Let's learn a little more about what you can do with HTML and CSS.
+
+###  Intermediate HTML Concepts
+
+[ Lesson
+
+Introduction
+
+](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-
+introduction)
+
+[ Lesson
+
+Emmet
+
+](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-
+emmet)
+
+[ Lesson
+
+SVG
+
+](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-
+svg)
+
+[ Lesson
+
+Tables
+
+](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-
+tables)
+
+###  Intermediate CSS Concepts
+
+[ Lesson
+
+Default Styles
+
+](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-
+default-styles)
+
+[ Lesson
+
+CSS Units
+
+](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-
+css-units)
+
+[ Lesson
+
+More Text Styles
+
+](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-
+more-text-styles)
+
+[ Lesson
+
+More CSS Properties
+
+](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-
+more-css-properties)
+
+[ Lesson
+
+Advanced Selectors
+
+](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-
+advanced-selectors)
+
+[ Lesson
+
+Positioning
+
+](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-
+positioning)
+
+[ Lesson
+
+CSS Functions
+
+](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-
+css-functions)
+
+[ Lesson
+
+Custom Properties
+
+](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-
+custom-properties)
+
+[ Lesson
+
+Browser Compatibility
+
+](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-
+browser-compatibility)
+
+[ Lesson
+
+Frameworks and Preprocessors
+
+](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-
+frameworks-and-preprocessors)
+
+###  Forms
+
+[ Lesson
+
+Form Basics
+
+](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-
+form-basics)
+
+[ Lesson
+
+Form Validation
+
+](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-
+form-validation)
+
+[ Project
+
+Project: Sign-up Form
+
+](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-
+sign-up-form)
+
+###  Grid
+
+[ Lesson
+
+Introduction to Grid
+
+](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-
+introduction-to-grid)
+
+[ Lesson
+
+Creating a Grid
+
+](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-
+creating-a-grid)
+
+[ Lesson
+
+Positioning Grid Elements
+
+](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-
+positioning-grid-elements)
+
+[ Lesson
+
+Advanced Grid Properties
+
+](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-
+advanced-grid-properties)
+
+[ Lesson
+
+Using Flexbox and Grid
+
+](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-
+using-flexbox-and-grid)
+
+[ Project
+
+Project: Admin Dashboard
+
+](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-
+admin-dashboard)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

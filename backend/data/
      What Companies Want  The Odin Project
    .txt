@@ -1,0 +1,169 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![Getting Hired](/assets/badge-getting-
+hired-03b3463749a1cd7dd5358c585b0c35c2878bbde91aa0800f641992eeb69f7c66.svg)
+](/paths/full-stack-javascript/courses/getting-hired)
+
+#  What Companies Want
+
+[
+
+##  Getting Hired Course
+
+](https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-
+hired)
+
+### Introduction
+
+Now that you’ve figured your own situation out, the fact is that you can’t get
+hired by just thinking about why _you_ need or deserve the job. You have to
+think about things from the perspective of the company. Why are they
+interested in hiring you? What, therefore, will they look for?
+
+### Life behind the curtain
+
+Hiring managers are busy people. That’s why they need someone new… to remove
+some of their workload and get their team working better or faster. They also
+have to deal with potentially hundreds of unqualified applicants every week,
+which takes up too much of their valuable time. They just want to get back to
+building stuff and not have to hire again anytime soon. So they are looking
+for someone who can **add value as soon as possible** and who will be able to
+**grow with the organization.**
+
+The second characteristic, growth, is something you shouldn’t have much
+trouble selling if you’ve come this far and learned web development on your
+own. The key is to present yourself as a growth curve, not just a static line
+(i.e. you’ll continue learning and improving very rapidly and not stop). You
+have real career goals and you’ve learned incredibly fast so far to get to
+where you are (right?).
+
+The first part, adding value immediately, is more difficult – that’s where
+they want to see that you’ve had relevant experience before and can meet their
+technical bar. There’s a bit of a catch-22 with getting hired – the easiest
+way to show you are employable is to have been employed before. It’s a check
+mark next to you. So to cater to this; do whatever you can to show that other
+people have believed in you enough to use your work and skills.
+
+Aside from those two characteristics, there is another major factor – fit. The
+hiring manager wants someone they and their team can work well with. All the
+other stuff represents minimum hurdles for being considered. But you often
+make or break your chances by being someone the team members want to know
+better and work with all day long. Almost all hiring processes ask the full
+team to evaluate a late-stage candidate.
+
+So to summarize, hiring managers are usually looking for 3 main things:
+
+  1. Capability
+  2. Motivation
+  3. Fit
+
+You can learn a bit about the perspective of hiring managers by reading blog
+posts about how to hire developers. No need to go crazy, but try to get a
+picture of why they’re hiring you:
+
+  1. [The Best Way to Hire Software Developers](http://insights.dice.com/2013/05/31/hiring-software-developers/)
+  2. [How to Hire Talent](http://lifeofaprogrammanager.blogspot.com/2006/06/how-to-hire-talent.html)
+  3. [Joel Spolsky has a lengthy diatribe on hiring developers](http://www.joelonsoftware.com/articles/FindingGreatDevelopers.html), which should give you an idea of the need and pain of hiring great engineers.
+  4. [Joel Spolsky’s Guerrilla Guide to Interviewing (version 3.0)](http://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html). Look for “people who are 1. Smart, and 2. Get things done”.
+  5. [Beyond a Resume: What Tech Recruiters Want](http://blog.udacity.com/2013/09/beyond-resume-what-tech-recruiters-want.html)
+
+### Internships
+
+A good way to start getting experience and show others that you’re employable
+is to get an internship. Just make sure it’s a paid internship because no one
+values things they get for free. You want the people you work with to value
+your contributions and feel like they have a stake in helping you succeed. The
+good part is that internships tend to focus more on your growth potential than
+what you’ve done before, so you can start to avoid that chicken-and-egg
+problem described above.
+
+The hiring process for internships is usually similar to but not quite as
+rigorous as full-time positions. Internships are basically just long
+interviews by that company to see if they want to bring you on full-time.
+
+These should be useful links for you:
+
+  * [Thread on “How do I get a Software Internship” from MetaFilter](http://ask.metafilter.com/226621/How-do-I-get-a-software-internship)
+  * [InternMatch](https://www.wayup.com/s/internships/it/)
+
+[ Improve on GitHub Github logo icon Improve on GitHub
+](https://github.com/TheOdinProject/curriculum/edit/main/getting_hired/preparing_for_job_search/what_companies_want.md)
+[ Report an issueReport icon Report an issue
+](https://github.com/TheOdinProject/curriculum/issues/new?labels=Status%3A+Needs+Triage&lesson-
+link=https%3A%2F%2Fwww.theodinproject.com%2Flessons%2Fnode-path-getting-hired-
+what-companies-
+want&template=suggestion.yaml&title=What+Companies+Want%3A+%3CShort+description+of+your+suggestion%3E)
+
+#### Lesson contents
+
+[ View courseGo to course page View Course ](/paths/full-stack-
+javascript/courses/getting-hired) [Sign in to track progress](/sign_in) [ Next
+lessonGo to next lesson Next Lesson ](/lessons/node-path-getting-hired-what-
+you-can-do-to-prepare)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

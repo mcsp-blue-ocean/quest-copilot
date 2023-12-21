@@ -1,0 +1,132 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![React](/assets/badge-
+react-d347c579ca6df9afc0ef4127bb4fe6dc4002be06cb241f4d70b37c412f56cec2.svg)
+](/paths/full-stack-javascript/courses/react)
+
+#  How This Course Will Work
+
+[
+
+##  React Course
+
+](https://www.theodinproject.com/paths/full-stack-javascript/courses/react)
+
+### Introduction
+
+Hello there, welcome to The Odin Project’s React course. In this course, we’ll
+learn about the basics of React and move on to more advanced concepts. We’ll
+be building projects along the way that you can add to your portfolio to
+impress recruiters with your React skills.
+
+Make sure you’ve completed our [JavaScript
+course](https://www.theodinproject.com/paths/full-stack-
+javascript/courses/javascript) before starting this one. We can’t emphasize
+enough how imperative it is to have a fair understanding of JavaScript before
+diving into React. At the end of the day, React _is_ vanilla JavaScript, so
+being able to navigate in JavaScript land is paramount to building a
+successful React project.
+
+### The journey ahead
+
+All the lessons follow a similar structure that you’re accustomed to from your
+prior courses. There’ll be lesson content followed by assignments. We’ve also
+incorporated interactive examples via CodeSandbox to demonstrate the concepts
+learned in those lessons.
+
+As always, we’re going to preface this by saying that learning a new
+technology can be a frustrating endeavor, but we’re confident you can
+persevere. There might be times when you think to yourself, “Hey, I can do
+this using vanilla JavaScript alright, why am I even learning React”, and
+that’s fine. As you work through the lessons, you’ll soon realize how
+convenient React can be in front-end development. Remember the dreaded [Todo
+List project](https://www.theodinproject.com/lessons/node-path-javascript-
+todo-list) from the JavaScript course? It’ll take you a few minutes in React
+to get the core functionality down. That will surely get you excited. By the
+end of the course, you’ll be a React Guru!
+
+Now then,
+
+### Let’s start Reactin’
+
+[ Improve on GitHub Github logo icon Improve on GitHub
+](https://github.com/TheOdinProject/curriculum/edit/main/react/introduction/how_this_course_will_work.md)
+[ Report an issueReport icon Report an issue
+](https://github.com/TheOdinProject/curriculum/issues/new?labels=Status%3A+Needs+Triage&lesson-
+link=https%3A%2F%2Fwww.theodinproject.com%2Flessons%2Fnode-path-react-new-how-
+this-course-will-
+work&template=suggestion.yaml&title=How+This+Course+Will+Work%3A+%3CShort+description+of+your+suggestion%3E)
+
+#### Lesson contents
+
+[ View courseGo to course page View Course ](/paths/full-stack-
+javascript/courses/react) [Sign in to track progress](/sign_in) [ Next
+lessonGo to next lesson Next Lesson ](/lessons/node-path-react-new-
+introduction-to-react)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

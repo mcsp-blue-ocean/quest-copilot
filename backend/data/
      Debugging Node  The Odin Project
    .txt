@@ -1,0 +1,126 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![NodeJS](/assets/badge-
+nodejs-1432a58382afd13f5bf55d4e5eda07244a3aa5fae9cee98ea034f17d6a09d503.svg)
+](/paths/full-stack-javascript/courses/nodejs)
+
+#  Debugging Node
+
+[
+
+##  NodeJS Course
+
+](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs)
+
+### Introduction
+
+Up until this point, you’ve likely only relied on the browser’s DevTools to
+debug your code. When it comes to debugging Node and server side code, VS Code
+has a handy built-in debugger that you can use to debug directly in your
+editor! Additionally, you can also set Google Chrome up to debug Node and get
+the full benefits of the Chrome DevTools.  Ultimately, this lesson will
+familiarize you with the Node debugger, which is a critical tool at this point
+in your learning, and will likely be a key tool you use daily in your
+professional life.
+
+### Learning outcomes
+
+By the end of this lesson, you should be able to do the following:
+
+  * Use the VS Code built-in Node debugger
+  * Use the Chrome DevTools to debug Node
+
+### Assignment
+
+  * Watch [this video tutorial about Node.js debugging in VS Code](https://www.youtube.com/watch?v=2oFKNL7vYV8&ab_channel=VisualStudioCode) to see the process in action.
+  * Check out the official [VS Code Node debugger documentation](https://code.visualstudio.com/docs/nodejs/nodejs-debugging). Take note of the Javascript Debug Terminal- this is an easy way to get the debugger running!
+  * Read [this article](https://www.section.io/engineering-education/debug-node-devtools/) for a tutorial on how to debug Node with Chrome. NOTE: You can ignore anything that refers to debugging remote apps- you’ll be debugging local apps.
+
+### Knowledge check
+
+This section contains questions for you to check your understanding of this
+lesson. If you’re having trouble answering the questions below on your own,
+review the material above to find the answer.
+
+  * What are two ways to debug Node?
+
+[ Improve on GitHub Github logo icon Improve on GitHub
+](https://github.com/TheOdinProject/curriculum/edit/main/nodeJS/introduction_to_nodeJS/debugging_node.md)
+[ Report an issueReport icon Report an issue
+](https://github.com/TheOdinProject/curriculum/issues/new?labels=Status%3A+Needs+Triage&lesson-
+link=https%3A%2F%2Fwww.theodinproject.com%2Flessons%2Fnodejs-debugging-
+node&template=suggestion.yaml&title=Debugging+Node%3A+%3CShort+description+of+your+suggestion%3E)
+
+#### Lesson contents
+
+[ View courseGo to course page View Course ](/paths/full-stack-
+javascript/courses/nodejs) [Sign in to track progress](/sign_in) [ Next
+lessonGo to next lesson Next Lesson ](/lessons/nodejs-basic-informational-
+site)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

@@ -1,0 +1,185 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![Getting Hired](/assets/badge-getting-
+hired-03b3463749a1cd7dd5358c585b0c35c2878bbde91aa0800f641992eeb69f7c66.svg)
+](/paths/full-stack-javascript/courses/getting-hired)
+
+[
+
+#  Getting Hired Course
+
+](https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-
+hired)
+
+## Overview
+
+Web development is a lifelong journey of learning and growth. Continue that
+journey on a professional development team! You'll learn where to find jobs,
+how to do great interviews, and the best strategies to launch your career.
+
+###  Preparing for Your Job Search
+
+[ Lesson
+
+How This Course Will Work
+
+](https://www.theodinproject.com/lessons/node-path-getting-hired-how-this-
+course-will-work)
+
+[ Lesson
+
+Professional Networking
+
+](https://www.theodinproject.com/lessons/node-path-getting-hired-professional-
+networking)
+
+[ Lesson
+
+Strategy
+
+](https://www.theodinproject.com/lessons/node-path-getting-hired-strategy)
+
+[ Lesson
+
+It Starts with YOU
+
+](https://www.theodinproject.com/lessons/node-path-getting-hired-it-starts-
+with-you)
+
+[ Lesson
+
+What Companies Want
+
+](https://www.theodinproject.com/lessons/node-path-getting-hired-what-
+companies-want)
+
+[ Lesson
+
+What You Can Do to Prepare
+
+](https://www.theodinproject.com/lessons/node-path-getting-hired-what-you-can-
+do-to-prepare)
+
+[ Project
+
+Project: Building Your Personal Website
+
+](https://www.theodinproject.com/lessons/node-path-getting-hired-building-
+your-personal-website)
+
+###  Applying to and Interviewing for Jobs
+
+[ Lesson
+
+Collecting Job Leads
+
+](https://www.theodinproject.com/lessons/node-path-getting-hired-collecting-
+job-leads)
+
+[ Lesson
+
+Qualifying Job Leads
+
+](https://www.theodinproject.com/lessons/node-path-getting-hired-qualifying-
+job-leads)
+
+[ Project
+
+Project: Building Your Resume
+
+](https://www.theodinproject.com/lessons/node-path-getting-hired-building-
+your-resume)
+
+[ Lesson
+
+Applying for Web Development Jobs
+
+](https://www.theodinproject.com/lessons/node-path-getting-hired-applying-for-
+web-development-jobs)
+
+[ Lesson
+
+Preparing to Interview and Interviewing
+
+](https://www.theodinproject.com/lessons/node-path-getting-hired-preparing-to-
+interview-and-interviewing)
+
+[ Lesson
+
+Handling a Job Offer
+
+](https://www.theodinproject.com/lessons/node-path-getting-hired-handling-a-
+job-offer)
+
+[ Lesson
+
+Conclusion
+
+](https://www.theodinproject.com/lessons/node-path-getting-hired-conclusion)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

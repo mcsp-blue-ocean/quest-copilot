@@ -1,0 +1,231 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![React](/assets/badge-
+react-d347c579ca6df9afc0ef4127bb4fe6dc4002be06cb241f4d70b37c412f56cec2.svg)
+](/paths/full-stack-javascript/courses/react)
+
+#  Introduction To State
+
+[
+
+##  React Course
+
+](https://www.theodinproject.com/paths/full-stack-javascript/courses/react)
+
+### Introduction
+
+Any exciting application you build is likely to change over the time the user
+is exploring it. The changes could be as simple as toggling a dropdown menu or
+as complex as fetching data from an API. React provides primitives to
+manipulate the state of your apps, more specifically components, to make them
+dynamic. In this lesson, we will learn how to use state in React.
+
+Read [What is State? by Academind](https://academind.com/tutorials/what-is-
+state) before we get started.
+
+### Lesson overview
+
+This section contains a general overview of topics that you will learn in this
+lesson.
+
+  * What is state?
+  * How to use state in React.
+  * What happens when the state changes in React?
+
+### What is state in React?
+
+We write components in React, A LOT of components, and many times we want them
+to undergo visual changes as a result of user or computer interactions. For
+this purpose, a component needs to “remember” things about itself. This is
+where state comes in. **State is a component’s memory.**
+
+Let’s take a look at how we can use state in our code.
+
+An app that changes its background color based on the clicked button. Pretty
+simple, right? Take your time reading the code as we’ll jump right in.
+
+#### The useState hook
+
+The `useState` hook is a built-in hook (we’ll talk about hooks later) in React
+that allows you to define state in a functional component. It takes an initial
+value as a parameter and returns an array with two elements that we can
+destructure to get:
+
+  1. The current state value
+  2. A function to update the state value
+
+State definition with `useState` commonly follows this pattern:
+
+    
+    
+    const [stateValue, setStateValue] = useState(initialValue);
+    
+    // adapted for our use case:
+    const [backgroundColor, setBackgroundColor] = useState(initialColor);
+    
+
+Even without much knowledge of React, you can, to some extent, understand
+what’s going on. The `backgroundColor` state is defined with the hook. Then on
+every button, we set up a _click_ event handler that calls the
+`setBackgroundColor` function with the corresponding value. Then, magically
+the new color is applied to the background.
+
+Adding more state variables should be as easy as adding more `useState` calls.
+
+Great, you can now use state! But, what’s going on under the hood?
+
+### How does state work in React?
+
+Let’s hit you with some theory.
+
+In React, when a component’s state or props change, the component is destroyed
+and recreated from scratch. Yes, you heard that right: _destroyed_. This
+includes the variables, functions, and React nodes. The entire component is
+recreated but this time the latest state value will be returned from
+`useState`. This process is called rerendering. Rerendering is a key feature
+of React that enables it to efficiently update the user interface in response
+to changes in the underlying data.
+
+#### React reconciliation algorithm
+
+The process of rerendering generates a new virtual DOM (Document Object Model)
+tree. The virtual DOM is a lightweight representation of the actual DOM that
+React uses to keep track of the current state of the UI. React then compares
+the new virtual DOM tree to the previous one and calculates the minimal set of
+changes needed to update the actual DOM. This is the reconciliation algorithm.
+
+#### Explaining rerendering with the example above
+
+Whenever `setBackgroundColor` is called, our `App` component is rerendered.
+Essentially, the component is recreated which means the `onButtonClick`
+function and our `div` and `button`’s are recreated as well. You might wonder,
+shouldn’t the `backgroundColor` state be recreated as well? Well, React takes
+the responsibility of keeping track of the latest state and providing it to
+the component. The initial state value is only used for the component’s first
+render and is ignored on subsequent renders.
+
+[![code illustration of
+rerendering](https://cdn.statically.io/gh/TheOdinProject/curriculum/abf5962ab36c951bab907a9952d09400651eab10/react/states_and_effects/introduction_to_state/imgs/00.png)](https://cdn.statically.io/gh/TheOdinProject/curriculum/abf5962ab36c951bab907a9952d09400651eab10/react/states_and_effects/introduction_to_state/imgs/00.png)
+
+What we covered in this section is just a brief overview of a portion of React
+internals. You may be curious to learn more, but be advised, this is a deep
+rabbit hole. What we covered above is enough to get you through the React
+course.
+
+### Hooks
+
+Hooks are functions that let you use React features. All hooks are
+recognizable by the `use` prefix. For example, `useState` is a hook. We’ll use
+more of these as we get further into the course. For now, remember that hooks
+have rules that we need to abide by:
+
+  1. Hooks can only be called from the top level of a functional component.
+  2. Hooks can’t be called from inside loops or conditions.
+
+### Assignment
+
+  1. Read the following articles from the React docs: 
+    1. [State: A Component’s Memory](https://react.dev/learn/state-a-components-memory)
+    2. [Render and Commit](https://react.dev/learn/render-and-commit)
+  2. Read this [article on React Reconciliation Algorithm](https://medium.com/javarevisited/react-reconciliation-algorithm-86e3e22c1b40) for a great explanation.
+  3. Add a new state variable to keep track of the number of times the background color has been changed. Display the number of times the background color has been changed on the page.
+
+### Knowledge check
+
+This section contains questions for you to check your understanding of this
+lesson on your own. If you’re having trouble answering a question, click it
+and review the material it links to.
+
+  * What is state?
+  * What is the `useState` hook and how to use it?
+  * What happens to the component when one of its state is changed?
+  * What are some of the rules of hooks?
+
+### Additional resources
+
+This section contains helpful links to related content. It isn’t required, so
+consider it supplemental.
+
+  * You can go through the [GeeksforGeeks article on reconciliation](https://www.geeksforgeeks.org/reactjs-reconciliation/) for an in-depth look into the algorithm.
+
+[ Improve on GitHub Github logo icon Improve on GitHub
+](https://github.com/TheOdinProject/curriculum/edit/main/react/states_and_effects/introduction_to_state.md)
+[ Report an issueReport icon Report an issue
+](https://github.com/TheOdinProject/curriculum/issues/new?labels=Status%3A+Needs+Triage&lesson-
+link=https%3A%2F%2Fwww.theodinproject.com%2Flessons%2Fnode-path-react-new-
+introduction-to-
+state&template=suggestion.yaml&title=Introduction+To+State%3A+%3CShort+description+of+your+suggestion%3E)
+
+#### Lesson contents
+
+[ View courseGo to course page View Course ](/paths/full-stack-
+javascript/courses/react) [Sign in to track progress](/sign_in) [ Next
+lessonGo to next lesson Next Lesson ](/lessons/node-path-react-new-more-on-
+state)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

@@ -1,0 +1,201 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+#  Your Career in Web Development Starts Here
+
+Our full stack curriculum is free and supported by a passionate open source
+community.
+
+[View Full Curriculum](https://www.theodinproject.com/paths) ![home-page-
+banner](/assets/home-
+isometric-68a769acd8c1f2c43991e3d6b24c658bf5e78b59fbca20aba5c7a97850948269.svg)
+
+## How it works
+
+This is the website we wish we had when we were learning on our own. We scour
+the internet looking for only the best resources to supplement your learning
+and present them in a logical order.
+
+![](/assets/img-learn-
+aded43a474618b12bf884b2577ef4548962b3d8e8ef5381de0bc6f4f86f8b2b3.svg)
+
+### Learn
+
+Learn from a curriculum with the best curated online tutorials, blogs, and
+courses.
+
+![](/assets/img-
+build-097e94bec94feb4b9152f9f95c197be4974f9921ce6fe8fc6ed86541933b3c14.svg)
+
+### Build
+
+Build dozens of portfolio-worthy projects along the way, from simple scripts
+to full programs and deployed websites.
+
+![](/assets/img-connect-
+fa7fdbed3b8a50275b5a79a293133b0a4b7b0c618230c6c7cad978c9e13122db.svg)
+
+### Connect
+
+You're not alone. Learn and get help from our friendly community of beginner
+and experienced developers.
+
+## Learn everything you need to know
+
+[ ![](/assets/badge-
+ruby-d91c1849066ed424531394e9d693dd99aaef49bcee15a96f462a1ae54c359af0.svg)
+
+###  Ruby
+
+](/paths/full-stack-ruby-on-rails/courses/ruby) [ ![](/assets/badge-database-
+feffd1ceb24267152793e33ea95e98ffeb3d203fd62d77302ac165dcfc421349.svg)
+
+###  Databases
+
+](/paths/full-stack-ruby-on-rails/courses/databases) [ ![](/assets/badge-ruby-
+on-rails-0100b2e2593cbeb4d87e92e9fc9930448581ef43b8ab175d5cfef2b6e7e3f29c.svg)
+
+###  Ruby on Rails
+
+](/paths/full-stack-ruby-on-rails/courses/ruby-on-rails) [ ![](/assets/badge-
+html-css-91bc8d9c7ebb2e2f73eeb302c38a92d9ba6f182301dbd1868d7198fcc8376aeb.svg)
+
+###  Intermediate HTML and CSS
+
+](/paths/full-stack-javascript/courses/intermediate-html-and-css) [
+![](/assets/badge-html-
+css-91bc8d9c7ebb2e2f73eeb302c38a92d9ba6f182301dbd1868d7198fcc8376aeb.svg)
+
+###  Advanced HTML and CSS
+
+](/paths/full-stack-javascript/courses/advanced-html-and-css) [
+![](/assets/badge-
+nodejs-1432a58382afd13f5bf55d4e5eda07244a3aa5fae9cee98ea034f17d6a09d503.svg)
+
+###  NodeJS
+
+](/paths/full-stack-javascript/courses/nodejs) [ ![](/assets/badge-getting-
+hired-03b3463749a1cd7dd5358c585b0c35c2878bbde91aa0800f641992eeb69f7c66.svg)
+
+###  Getting Hired
+
+](/paths/full-stack-javascript/courses/getting-hired) [ ![](/assets/badge-
+javascript-626af7075a7914bc4f30bd941268ed883785c3fb29b3e9d023eb5ab6450353bb.svg)
+
+###  JavaScript
+
+](/paths/full-stack-javascript/courses/javascript) [ ![](/assets/badge-
+react-d347c579ca6df9afc0ef4127bb4fe6dc4002be06cb241f4d70b37c412f56cec2.svg)
+
+###  React
+
+](/paths/full-stack-javascript/courses/react)
+
+[Explore curriculum](https://www.theodinproject.com/paths)
+
+## Success Stories
+
+![](/assets/success_stories/rob_pando-6f356379c151a50217e4e81a67f3c22bfba6a759264669aeabfd239701568f63.jpg)
+
+[Rob Pando](/success_stories.307#success_story_307)
+
+TOP was a perfect match for my learning style. Not walking me through an
+entire project but actually forcing me to figure it out on my own, by pointing
+me...
+
+![](/assets/success_stories/cody_loyd-c885053caab6e551611a18df724fb6b9c8f3a4548668048be0759a8b6d7e74bb.jpg)
+
+[Cody Loyd](/success_stories.309#success_story_309)
+
+Before I started the Odin Project I had literally ZERO programming experience.
+After almost exactly a year of working through the program, I was offered a
+job as a front...
+
+![](/assets/success_stories/andrej_dragojevic-
+bcd48746a443efaac8fbebccac7ed0d1d946b331bbd01855cab5772d6ada86f5.jpg)
+
+[Andrej Dragojević](/success_stories.311#success_story_311)
+
+An incredible self-paced curriculum that consists of the best resources for
+learning programming on the web! It was an invaluable resource on my path to a
+becoming a software developer.
+
+...
+
+![](/assets/success_stories/skip-
+ee50be4677383781878c07fa0c6cf523e6151f4988b67b9e8e6666fa12381a0a.jpg)
+
+[Skip Gibson](/success_stories.312#success_story_312)
+
+Before I found The Odin Project I had very little direction with my learning,
+jumping from topic to topic then trying to piece things together as I went.
+
+Having this...
+
+[Read more success stories](/success_stories)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

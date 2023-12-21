@@ -1,0 +1,154 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![React](/assets/badge-
+react-d347c579ca6df9afc0ef4127bb4fe6dc4002be06cb241f4d70b37c412f56cec2.svg)
+](/paths/full-stack-ruby-on-rails/courses/react)
+
+#  Project: Where's Waldo (A Photo Tagging App)
+
+[
+
+##  React Course
+
+](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/react)
+
+### Introduction
+
+This project will finally give you a chance to tie together everything you’ve
+learned so far. It’s a project with a lot of complexity so take it one step at
+a time. Working with a backend is pretty straightforward, but you’ll be
+juggling some of the front end functionality too. This is entirely within the
+realm of the kind of thing you might be asked to build on the job (though of
+course not exactly). Are you ready?
+
+Have you ever played [Where’s
+Waldo](http://en.wikipedia.org/wiki/Where's_Wally%3F)? If not, that’s okay!
+It’s a pretty simple concept: you are presented with a busy and crowded
+illustration that contains many different people, objects, and places. Your
+task is to find a particular character named Waldo, who is hidden somewhere in
+the illustration.
+
+### Your task
+
+Build an app that, when it’s finished, will feel very similar to a photo
+tagging app. You’ll start with a large photograph containing several elements
+the user is meant to find, e.g. Waldo, The Wizard, Wilma etc. You can even
+name your own if you’d like to use custom pictures. The user will make
+selections for each character and they will be given feedback on whether they
+are correct or not.
+
+To start with, you’ll need to choose a photo and identify where exactly each
+person is using its pixel position and save that to your database. When the
+user clicks the photo, it should place a targeting box around the portion of
+the photo the user has clicked. That box should contain a list of possible
+characters.
+
+When the user selects one of these characters, you should check with your
+backend to see if that character is actually within the targeting box. Provide
+the user with appropriate feedback (e.g. if wrong, an error message). If
+correct, place a marker on the photo in the character’s location. In either
+case, remove the targeting box until the user clicks again.
+
+Keep track of how long it takes from when the photo is first loaded to when
+the user finally identifies all of the characters. It is advisable to do this
+on the server side, otherwise the user could hack their score (but you should
+know this by now). Once a round is complete, ask the user for their name and
+record that time. This will get a bit tricky since you’ll have anonymous users
+you need to keep track of!
+
+### Assignment
+
+  1. Think about what you’ll need to do to get this all working together. This is where it’s really helpful to think it completely through on paper or a whiteboard ahead of time! A few minutes of thought can save you from wasting an hour on coding.
+  2. Build the front end functionality without actually using any calls to the back end yet. Specifically, create the functionality that pops the targeting box and dropdown menu on the screen when the user clicks on the photo and removes it when the user clicks away.
+  3. Now hook up the functionality for validating with your backend whether or not the user has clicked the right place for the character they selected from the dropdown. **Note:** Depending on how you are getting the coordinates of a user’s clicks, different screen sizes may produce different coordinates. This could cause your app to record coordinates properly on a large screensize, but not smaller ones. Knowing this, you may need to implement methods to your click logic that will normalize coordinates across different screensizes.
+  4. Tie it into your frontend so you can seamlessly select characters, validate them, and place the appropriate markers on the map if the selection was correct.
+  5. Add in the ability to time the user from when they first load the page and then display their “score” (time) when they successfully identify all characters. Create a popup that asks them to enter their name for the high scores table if they have earned it.
+  6. Play with it!
+  7. Push your solution to GitHub and deploy it to any of the hosting options. Additionally, submit your solutions below. This is a serious project, congratulations!
+
+### Extra credit
+
+  1. Load many images into your database and allow the user to select from among them before starting the game.
+
+[ Improve on GitHub Github logo icon Improve on GitHub
+](https://github.com/TheOdinProject/curriculum/edit/main/react/react_and_the_backend/project_wheres_waldo_a_photo_tagging_app.md)
+[ Report an issueReport icon Report an issue
+](https://github.com/TheOdinProject/curriculum/issues/new?labels=Status%3A+Needs+Triage&lesson-
+link=https%3A%2F%2Fwww.theodinproject.com%2Flessons%2Freact-new-where-s-waldo-
+a-photo-tagging-
+app&template=suggestion.yaml&title=Where%27s+Waldo+%28A+Photo+Tagging+App%29%3A+%3CShort+description+of+your+suggestion%3E)
+
+#### Lesson contents
+
+Only logged in users can view user submissions for this project
+
+[ View courseGo to course page View Course ](/paths/full-stack-ruby-on-
+rails/courses/react) [Sign in to track progress](/sign_in) [ Next lessonGo to
+next lesson Next Lesson ](/lessons/react-new-messaging-app)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

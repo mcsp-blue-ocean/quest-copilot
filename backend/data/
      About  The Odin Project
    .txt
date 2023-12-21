@@ -1,0 +1,157 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+# About The Odin Project
+
+The Odin Project is one of those "What I wish I had when I was learning"
+resources. Not everyone has access to a computer science education or the
+funds to attend an intensive coding school and neither of those is right for
+everyone anyway. This project is designed to fill in the gap for people who
+are trying to hack it on their own but still want a high quality education.
+
+## What you can expect at The Odin Project
+
+![](/assets/about_page/img-
+education-e3565a58586975c5666f72075d0b3595ed3970a39837b20e2929a207ac6f3dcc.svg)
+
+###  A full roadmap to becoming a developer
+
+Our free, comprehensive curriculum will equip you to be a full stack
+developer, no matter your current experience level.
+
+![](/assets/about_page/img-build-
+ff744742c689a4c6e5288a2b1254dd5f48b67612f077c6502d0d47da2f04c872.svg)
+
+###  Learn by doing
+
+The most effective learning happens while building projects, so we have
+strategically placed them throughout our curriculum. These projects will make
+a strong portfolio for you to showcase on your resume.
+
+![](/assets/about_page/img-
+people-38cb10d85ee4919c50abb7546115ed4f4bdf45494b5bee61f62f5a007d0f1752.svg)
+
+###  Receive support from others
+
+[The maintainers of the curriculum](/team) run a Discord community, with the
+help of countless other volunteers, where you can receive help with anything
+in our curriculum.
+
+![](/assets/about_page/img-
+opensource-c137c8616631027d6a10b1fe5aa932c5e594fc80caecd00d8b190a197f10f8f9.svg)
+
+###  Open source and community driven
+
+You can deepen your understanding and improve your GitHub skills by
+contributing to our open source curriculum and helping others in our Discord
+community.
+
+## Overview of The Odin Project
+
+1196440
+
+Learners
+
+5000+
+
+Contributors
+
+2013
+
+Founded
+
+### Origin of The Odin Project
+
+The Odin Project provides a free open source coding curriculum that can be
+taken entirely online. Since its inception, it has helped many students get
+hired as developers and has assisted countless others in learning enough
+programming to work on their own personal projects.
+
+Erik Trautman founded The Odin Project in 2013. Currently it is maintained and
+continually improved by a [team of volunteers](/team) many of whom learned to
+code with us. Many find success from Odin Project's curriculum because of its
+hands-on approach with learning and emphasis on building projects. The
+curriculum is meticulously curated to ensure the content is up-to-date.
+
+[__](https://www.github.com/theodinproject)
+
+### Open Source
+
+This website and the curriculum it hosts are completely open source. That
+means anyone can work on new features or fix existing bugs on the website.
+This also extends to the curriculum itself, anyone can work on new lessons,
+add new resources and improve existing lessons.
+
+The Odin Project would not be possible without the hard work of contributors
+from all across the world. If you're interested in helping us make The Odin
+Project better, please find out [how to contribute.](/contributing)
+
+## Want to contact us?
+
+Connect with our friendly community on discord, a chat and networking platform
+or [send us an email](mailto:theodinprojectcontact@gmail.com).
+
+[Chat on Discord](https://discord.gg/fbFCkYabZB)
+
+If you want to give back to our community, you can do so by contributing to
+our open source projects, or by supporting us financially.
+
+[Contribute](/contributing) [Donate](/support_us)
+
+## Footer
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

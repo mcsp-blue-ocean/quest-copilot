@@ -1,0 +1,144 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![JavaScript](/assets/badge-
+javascript-626af7075a7914bc4f30bd941268ed883785c3fb29b3e9d023eb5ab6450353bb.svg)
+](/paths/full-stack-javascript/courses/javascript)
+
+#  What is ES6?
+
+[
+
+##  JavaScript Course
+
+](https://www.theodinproject.com/paths/full-stack-
+javascript/courses/javascript)
+
+### Introduction
+
+We’ve been throwing around the term **ES6** since our very first lessons, but
+we haven’t taken the time to properly explain what it means or to investigate
+the implications of it in our code.
+
+Put simply, ES6 is a version of JavaScript that was officially released in the
+summer of 2015. It included _many_ new features that make writing JavaScript
+much easier and cleaner. If you have been following our lessons you have
+already been learning these new features because, well, ES6 is _just
+JavaScript_.
+
+You have probably also come across articles talking about features in ES7 or
+ES8 or ES2015 or ES2017 etc. Part of the confusion here is that right after
+the release of ES6, the committee that makes these decisions changed the
+naming scheme from ‘version numbers’ (ES5, ES6, ES7 etc.) to ‘release years’
+(ES2015, ES2016, ES2017 etc.)
+
+  * [This article](https://codeburst.io/javascript-wtf-is-es6-es8-es-2017-ecmascript-dca859e4821c) provides a nice clean explanation and timeline of the various ECMAScript releases.
+  * [This document](https://github.com/lukehoban/es6features) outlines all the new features that showed up in ES6. As we’ve mentioned you’ve already been using many of these, though there are a few we haven’t specifically covered yet.
+
+The _problem_ with JavaScript constantly updating and adding features is that
+it sometimes takes web-browsers a while to catch up and implement new features
+once they’ve been released. At the current time all modern browsers (Chrome,
+Firefox, Safari and Edge) support _all_ of ES6, and _most_ of ES7, but older
+browsers (various versions of Internet Explorer for instance) do not. This
+means, unfortunately, that if you write code that uses these new features it
+**will not run** in browsers that do not support it.
+
+For most of us, this has not been an issue because you are almost definitely
+using a new browser that automatically updates itself when a new version is
+released. But in the real world, if you’re selling products to customers you
+can’t control which browsers people will use to connect to your site.
+
+Fortunately there _is_ a solution to this problem. [Babel](http://babeljs.io/)
+is a tool that takes your modern JavaScript code and **transpiles** it to code
+that older browsers can understand. It can be used from the command line with
+a simple command, and can also easily be added to your webpack configuration
+with the babel-loader.
+
+In all honesty, this is not something that you are going to _need_ to worry
+about on every project you’re starting. All the ES6 features are present in
+the large majority of browsers used worldwide. But JavaScript is constantly
+changing, and as new features are announced and released, you can use Babel to
+try them out, often before they’re available in _any_ browser!
+
+  * Follow the instructions [here](https://github.com/babel/babel-loader) to install the babel-loader and use it with webpack. If you’ve already got webpack up and running in a project, adding babel is a cinch!
+  * Read [this article](https://blog.jakoblind.no/babel-preset-env/) to better understand presets and plugins in Babel. It will also show you how to target specific browser versions you want to support.
+
+[ Improve on GitHub Github logo icon Improve on GitHub
+](https://github.com/TheOdinProject/curriculum/edit/main/javascript/javascript_in_the_real_world/what_is_es6.md)
+[ Report an issueReport icon Report an issue
+](https://github.com/TheOdinProject/curriculum/issues/new?labels=Status%3A+Needs+Triage&lesson-
+link=https%3A%2F%2Fwww.theodinproject.com%2Flessons%2Fnode-path-javascript-
+what-is-
+es6&template=suggestion.yaml&title=What+is+ES6%3F%3A+%3CShort+description+of+your+suggestion%3E)
+
+#### Lesson contents
+
+[ View courseGo to course page View Course ](/paths/full-stack-
+javascript/courses/javascript) [Sign in to track progress](/sign_in) [ Next
+lessonGo to next lesson Next Lesson ](/lessons/node-path-javascript-json)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

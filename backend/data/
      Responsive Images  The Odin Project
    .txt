@@ -1,0 +1,192 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![Advanced HTML and CSS](/assets/badge-html-
+css-91bc8d9c7ebb2e2f73eeb302c38a92d9ba6f182301dbd1868d7198fcc8376aeb.svg)
+](/paths/full-stack-javascript/courses/advanced-html-and-css)
+
+#  Responsive Images
+
+[
+
+##  Advanced HTML and CSS Course
+
+](https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-
+html-and-css)
+
+### Introduction
+
+Images require special care on responsive websites. This lesson presents a few
+issues that arise when working with responsive images and the options you have
+when dealing with them.
+
+### Learning outcomes
+
+  * You’ll learn how to make your images behave properly when resizing them with CSS.
+  * You’ll learn how to serve up different images based on screen size.
+
+### The basics
+
+The most basic problem you are going to face when working with responsive
+images is the aspect ratio or the relationship between width and height. If
+you shrink the width of an image on smaller screens and do not manipulate the
+height, the image will appear distorted!
+
+The solution to this issue is incredibly easy, and we’ve already mentioned it
+in an earlier lesson: simply don’t define both a width and a height. If an
+image is given a flexible width, and the height is set to `auto`, then it
+should retain its aspect ratio correctly.
+
+### background-size, background-position and object-fit
+
+What if you don’t want your image to simply shrink (in both height and width)?
+`background-size` and `object-fit` are two properties that can provide a
+little more flexibility (pun intended) with how aspect ratios are handled.
+
+`background-position` and `background-size` are properties that work on
+elements with a background image, and do not work on normal `img` tags. You’ll
+see some examples and specifics in the reading assignment later, but you can
+get quite a lot of control over the display and placement of background images
+by working with these properties. For example, `background-position: center`
+will make sure the image is always centered in its container, even if the
+container is too small to fit the whole image. `background-size: cover` will
+resize the image so that it is always completely filling its container while
+cropping as little as possible.
+
+Here’s a little demo you can play with:
+
+See the Pen [ background | CSS
+Responsiveness](https://codepen.io/TheOdinProjectExamples/pen/powxJXV) by
+TheOdinProject
+([@TheOdinProjectExamples](https://codepen.io/TheOdinProjectExamples)) on
+[CodePen](https://codepen.io).
+
+`object-fit` works similarly, but is meant for `img` tags. With the `object-
+fit` property you _can_ specify a width and height for your images and then
+tell an image how it is supposed to fit itself to those dimensions. The
+default value for `object-fit` is `fill`, which simply stretches the image to
+fit the dimensions, but much like `background-size` you can also tell it to
+`cover` or `contain` the image.
+
+Here’s a demo of `object-fit` on an image. Open this one up on CodePen and
+resize the browser to see how the image reacts.
+
+See the Pen [ object-
+fit](https://codepen.io/TheOdinProjectExamples/pen/NWgOGGX) by TheOdinProject
+([@TheOdinProjectExamples](https://codepen.io/TheOdinProjectExamples)) on
+[CodePen](https://codepen.io).
+
+### Even more control!
+
+It is also possible to literally use _different_ images for different screen
+sizes. This gives you the most control over exactly how your images are
+displayed at various resolutions. For example, instead of just trusting
+`object-fit` to keep the subject of a photograph in a frame, you could present
+a cropped version of it on smaller screens. There are two ways of achieving
+this, but the most flexible is using the `<picture>` tag, which you’ll learn
+more about in the assignment.
+
+### Assignment
+
+  1. First check out the docs for [background-size](https://developer.mozilla.org/en-US/docs/Web/CSS/background-size), [background-position](https://developer.mozilla.org/en-US/docs/Web/CSS/background-position), and [object-fit](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit). The demos on those pages should make their usage clear.
+  2. MDN’s [Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) is an introduction to serving up responsive images in HTML.
+  3. CSS Tricks’s [Guide to the Responsive Images Syntax in HTML](https://css-tricks.com/a-guide-to-the-responsive-images-syntax-in-html/) is a great article that goes into more depth on how to actually implement responsive images.
+
+### Knowledge check
+
+This section contains questions for you to check your understanding of this
+lesson. If you’re having trouble answering the questions below on your own,
+review the material above to find the answer.
+
+  * What is the main difference between `object-fit` and `background-size`?
+  * How can you define a width and a height on an `img` without distorting it?
+  * [Why would you want to provide different images at different screen resolutions?](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images#why_responsive_images)
+  * [When would you want to use an `img` with a `srcset` vs a `picture`?](https://css-tricks.com/a-guide-to-the-responsive-images-syntax-in-html/)
+
+### Additional resources
+
+This section contains helpful links to other content. It isn’t required, so
+consider it supplemental.
+
+  * [Responsive Images 101](https://cloudfour.com/thinks/responsive-images-101-definitions/) is a good series of articles if you need another source.
+
+[ Improve on GitHub Github logo icon Improve on GitHub
+](https://github.com/TheOdinProject/curriculum/edit/main/advanced_html_css/responsive_design/responsive_images.md)
+[ Report an issueReport icon Report an issue
+](https://github.com/TheOdinProject/curriculum/issues/new?labels=Status%3A+Needs+Triage&lesson-
+link=https%3A%2F%2Fwww.theodinproject.com%2Flessons%2Fnode-path-advanced-html-
+and-css-responsive-
+images&template=suggestion.yaml&title=Responsive+Images%3A+%3CShort+description+of+your+suggestion%3E)
+
+#### Lesson contents
+
+[ View courseGo to course page View Course ](/paths/full-stack-
+javascript/courses/advanced-html-and-css) [Sign in to track
+progress](/sign_in) [ Next lessonGo to next lesson Next Lesson
+](/lessons/node-path-advanced-html-and-css-media-queries)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

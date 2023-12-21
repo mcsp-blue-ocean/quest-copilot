@@ -1,0 +1,163 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![Foundations](/assets/badge-
+foundations-4a1f6ae4009e6156a289aef0a3897283ff0e3fe1af6b5795aaf7260619dc11f4.svg)
+](/paths/foundations/courses/foundations)
+
+#  Project: Rock Paper Scissors
+
+[
+
+##  Foundations Course
+
+](https://www.theodinproject.com/paths/foundations/courses/foundations)
+
+### Introduction
+
+We’re going to make a simple implementation of grade-school classic “rock
+paper scissors”. If you don’t know what that is check the [Wikipedia
+article](https://en.wikipedia.org/wiki/Rock%E2%80%93paper%E2%80%93scissors) or
+[this](https://www.wikihow.com/Play-Rock,-Paper,-Scissors) detailed step-by-
+step. For the moment we’re just going to play the game from the browser
+console, but **we will revisit this project in a later lesson and add a
+Graphical User Interface with buttons and text,** so don’t forget to keep the
+code on GitHub! You might notice some ‘Live Preview’ links in the student
+solutions that have a GUI - this is coming in a later lesson. When you get
+there don’t forget to come back and add your link!
+
+### Quick exercises before starting
+
+  1. Identify three ways to include JavaScript in a page.
+  2. Test it out! Write `console.log("Hello World");` in JavaScript and check to see if it displays in the browser’s console.
+
+Finally, this is your first JavaScript program built from scratch, so don’t
+forget the previous lesson on problem solving. Plan your solution out before
+writing any code, and test each piece as you build to ensure it is working
+before moving on to the next!
+
+### Assignment
+
+Don’t forget to commit early & often! You can [reference the Commit Message
+lesson
+here](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/commit-
+messages)!
+
+  1. Start a new Git repo for your project.
+  2. Create a blank HTML document with a script tag (Hint: it is best practice to link an external .js file). This game is going to be played completely from the console, so don’t worry about putting anything else in there.
+  3. Your game is going to play against the computer, so begin with a function called `getComputerChoice` that will randomly return either ‘Rock’, ‘Paper’ or ‘Scissors’. We’ll use this function in the game to make the computer’s play. _Tip: use the console to make sure this is returning the expected output before moving to the next step!_
+  4. Write a function that plays a single round of Rock Paper Scissors. The function should take two parameters - the `playerSelection` and `computerSelection` \- and then return a string that declares the winner of the round like so: `"You Lose! Paper beats Rock"`
+    * Make your function’s playerSelection parameter case-insensitive (so users can input `rock`, `ROCK`, `RocK` or any other variation).
+    * Account for TIES by re-playing the round.
+  5. **Important note:** you want to `return` the results of this function call, _not_ `console.log()` them. You’re going to use what you `return` later on, so let’s test this function by using console.log to see the results:
+    
+        function playRound(playerSelection, computerSelection) {
+      // your code here!
+    }
+     
+    const playerSelection = "rock";
+    const computerSelection = getComputerChoice();
+    console.log(playRound(playerSelection, computerSelection));
+    
+
+  6. Write a NEW function called `game()`. Use the previous function _inside_ of this one to play a best-of-five game that keeps score and reports a winner or loser at the end. 
+    * You have not officially learned how to “loop” over code to repeat function calls… if you already know about loops from somewhere else (or if you feel like doing some more learning) feel free to use them. If not, don’t worry! Just call your `playRound` function 5 times in a row. Loops are covered in the next lesson.
+    * At this point you should be using `console.log()` to display the results of each round and the winner at the end.
+    * Use `prompt()` to get input from the user. [Read the docs here if you need to.](https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt)
+    * Feel free to re-work your previous functions if you need to. Specifically, you might want to change the return value to something more useful.
+    * Feel free to create more “helper” functions if you think it would be useful.
+
+When making interactive projects, like this one, you might be tempted to add
+more features, improve interactivity, user experience, design and styling of
+your website, and so on.
+
+We recommend not doing that, and saving this effort for your portfolio
+projects.
+
+For more information on learning mindset and portfolio pieces read [Part
+5](https://dev.to/theodinproject/learning-code-f56) and [Part
+7](https://dev.to/theodinproject/strategically-building-your-portfolio-1km4)
+of [Becoming a TOP Success Story](https://dev.to/theodinproject/becoming-a-
+top-success-story-mindset-3dp2)
+
+[ Improve on GitHub Github logo icon Improve on GitHub
+](https://github.com/TheOdinProject/curriculum/edit/main/foundations/javascript_basics/project_rock_paper_scissors.md)
+[ Report an issueReport icon Report an issue
+](https://github.com/TheOdinProject/curriculum/issues/new?labels=Status%3A+Needs+Triage&lesson-
+link=https%3A%2F%2Fwww.theodinproject.com%2Flessons%2Ffoundations-rock-paper-
+scissors&template=suggestion.yaml&title=Rock+Paper+Scissors%3A+%3CShort+description+of+your+suggestion%3E)
+
+#### Lesson contents
+
+Only logged in users can view user submissions for this project
+
+[ View courseGo to course page View Course
+](/paths/foundations/courses/foundations) [Sign in to track
+progress](/sign_in) [ Next lessonGo to next lesson Next Lesson
+](/lessons/foundations-clean-code)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

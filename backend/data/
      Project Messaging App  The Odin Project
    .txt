@@ -1,0 +1,119 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![React](/assets/badge-
+react-d347c579ca6df9afc0ef4127bb4fe6dc4002be06cb241f4d70b37c412f56cec2.svg)
+](/paths/full-stack-ruby-on-rails/courses/react)
+
+#  Project: Messaging App
+
+[
+
+##  React Course
+
+](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/react)
+
+### Introduction
+
+Think of your favorite messaging app - Discord, Telegram, WhatsApp, Facebook
+Messenger, AOL Instant Messenger, etc. - and imagine what it would be like if
+you could build your own. This project will give you a chance to do just that.
+You’ll be building a web app that allows users to send messages to each other.
+
+### Assignment
+
+  1. Keep in mind that the apps we mentioned earlier have entire teams of developers working on them, so you shouldn’t feel the need to go overboard with features in your app. At a minimum, though, your app should include the following core functionality: 
+    1. Authorization
+    2. Sending messages to another user
+    3. Customizing a user profile
+  2. Spend some time planning out your app. What will the user interface look like? What will the data model look like? What libraries will you need to use?
+  3. Start building your app by implementing the core functionality in your backend and frontend. 
+    1. You may have realized that a REST API backend cannot handle real time updates. It is “request-response”, so the server can only respond to a request. If a user sends a message to another user, a REST API cannot automatically notify the recipient as the recipient will not have requested that data. Methods for real time server-client updates (particularly when dealing with a split front/backend) have not been taught, so you are not expected to implement any in this app.
+  4. Deploy your app to the web and showcase it in the submissions below as well as on our Discord. We’d love to see what you’ve built!
+
+#### Extra credit
+
+  * Allow sending images in chat
+  * Add a friends list that users can add other users to and see when someone is online (alternative: “Add a users list to show which users are currently online”; same thing except maybe a step or two less since it doesn’t require adding a friend)
+  * Allow users to create and send messages in group chats
+
+[ Improve on GitHub Github logo icon Improve on GitHub
+](https://github.com/TheOdinProject/curriculum/edit/main/react/react_and_the_backend/project_messaging_app.md)
+[ Report an issueReport icon Report an issue
+](https://github.com/TheOdinProject/curriculum/issues/new?labels=Status%3A+Needs+Triage&lesson-
+link=https%3A%2F%2Fwww.theodinproject.com%2Flessons%2Freact-new-messaging-
+app&template=suggestion.yaml&title=Messaging+App%3A+%3CShort+description+of+your+suggestion%3E)
+
+#### Lesson contents
+
+Only logged in users can view user submissions for this project
+
+[ View courseGo to course page View Course ](/paths/full-stack-ruby-on-
+rails/courses/react) [Sign in to track progress](/sign_in) [ Next lessonGo to
+next lesson Next Lesson ](/lessons/react-conclusion)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

@@ -1,0 +1,137 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![JavaScript](/assets/badge-
+javascript-626af7075a7914bc4f30bd941268ed883785c3fb29b3e9d023eb5ab6450353bb.svg)
+](/paths/full-stack-javascript/courses/javascript)
+
+#  A Quick Review
+
+[
+
+##  JavaScript Course
+
+](https://www.theodinproject.com/paths/full-stack-
+javascript/courses/javascript)
+
+### Introduction
+
+This course assumes that you have a decent grasp on the fundamentals of
+JavaScript. If you just finished our [Foundations
+course](https://theodinproject.com/paths/foundations) then you should skip
+this review and move on to the next lesson. If it’s been a while and you’re
+coming from the Ruby courses, you will probably want to take a day or two to
+refresh yourself on the basics.
+
+### Review
+
+Running through “part 1” of [MDN’s JavaScript basics
+course](https://developer.mozilla.org/en-
+US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) is a great idea
+for a refresher on the syntax. If you just want a quick reference to skim, try
+[LearnXinY](https://learnxinyminutes.com/docs/javascript/).
+
+It might also be a good idea to do a little practicing before moving on. If
+you want something fresh to work on, now would be a fine time to do some
+coding exercises from across the net. The following sites are all great places
+to look.
+
+  * [Exercism](http://exercism.org/)
+  * [CodeWars](https://www.codewars.com/)
+  * [w3schools](https://www.w3schools.com/js/default.asp)
+
+### jQuery?
+
+Before you press on, a note about jQuery. We occasionally get questions about
+why we don’t include jQuery in our curriculum. jQuery was very popular in the
+past, but has fallen out of the limelight in recent years. One of the biggest
+reasons it has begun to fall out of favor is that you simply don’t _need_ it
+anymore. When it became popular, doing things like DOM manipulation and AJAX
+calls were difficult in plain JavaScript, but that is no longer the case.
+
+A quick web-search on the topic will be more useful than any explanations
+here, and if you still want to learn it (many older codebases still use it,
+and you will see it on many older Stack Overflow posts) we are confident that
+you can pick it up quite easily by reading the documentation on [their
+website](https://jquery.com/).
+
+[ Improve on GitHub Github logo icon Improve on GitHub
+](https://github.com/TheOdinProject/curriculum/edit/main/javascript/introduction/a_quick_review.md)
+[ Report an issueReport icon Report an issue
+](https://github.com/TheOdinProject/curriculum/issues/new?labels=Status%3A+Needs+Triage&lesson-
+link=https%3A%2F%2Fwww.theodinproject.com%2Flessons%2Fnode-path-javascript-a-
+quick-
+review&template=suggestion.yaml&title=A+Quick+Review%3A+%3CShort+description+of+your+suggestion%3E)
+
+#### Lesson contents
+
+[ View courseGo to course page View Course ](/paths/full-stack-
+javascript/courses/javascript) [Sign in to track progress](/sign_in) [ Next
+lessonGo to next lesson Next Lesson ](/lessons/node-path-javascript-
+organizing-your-javascript-code-introduction)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

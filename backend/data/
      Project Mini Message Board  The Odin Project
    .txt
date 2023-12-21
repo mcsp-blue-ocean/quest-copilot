@@ -1,0 +1,150 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![NodeJS](/assets/badge-
+nodejs-1432a58382afd13f5bf55d4e5eda07244a3aa5fae9cee98ea034f17d6a09d503.svg)
+](/paths/full-stack-javascript/courses/nodejs)
+
+#  Project: Mini Message Board
+
+[
+
+##  NodeJS Course
+
+](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs)
+
+### Introduction
+
+Let’s take a quick break from the main Express tutorial to practice what we’ve
+already learned. At this point you should know enough to use Express to make
+some fun interactive web apps! We’re going to create a super simple message
+board.
+
+### Assignment
+
+  1. Use `express-generator` to set up a basic project using whichever templating language you prefer. If you want, you can set it all up manually – it doesn’t really take that much longer. 
+    * Hint: here are links to some of the more popular templating language docs: [PUG](https://pugjs.org/api/getting-started.html), [EJS](https://ejs.co/#docs), [Handlebars](https://handlebarsjs.com/guide/)
+  2. Initialize a Git repo in your project directory with
+    
+        git init
+    
+
+Create a `.gitignore` file in your project directory that includes
+`node_modules`.
+
+  3. We are going to have 2 routes, the index (`"/"`) and a new-message form (`"/new"`). The generator already created a router for our index, so find that file and open it up. It can be found at `routes/index.js`. There is already a `router.get()` method for `"/"` that should be rendering your index view, so lets add some messages to it.
+  4. Create an array at the top of your index router called `messages` and put a couple of sample messages inside of it like this:
+    
+        const messages = [
+       {
+         text: "Hi there!",
+         user: "Amando",
+         added: new Date()
+       },
+       {
+         text: "Hello World!",
+         user: "Charles",
+         added: new Date()
+       }
+    ];
+    
+
+  5. Next, in your index template (in the `"views"` folder) loop through the messages array using whichever templating language you selected and for each one, display the user, text and the date the message was added. Don’t forget to make your messages available to your template by including it in the res.render ‘locals’ object (e.g. `res.render('index', { title: "Mini Messageboard", messages: messages })`).
+  6. Next let’s set up the new message form. In the router add a `router.get()` for the `"/new"` route and point it to a template named `"form"`. In the views directory create your `form` template. Add a heading, 2 inputs (one for the author’s name and one for the message text) and a submit button. To have the form make a network request you will need to define it with both a method and an action like so:
+    
+        <form method="POST" action="/new">
+       put your inputs and buttons in here!
+    </form>
+    
+
+  7. With your form set up like this, when you click on the submit button it should send a POST request to the url specified by the action attribute, so go back to your index router and add a `router.post()` for `"/new"`.
+  8. In order to get and use the data from your form, you will need to access the contents of your form inside `router.post()` as an object called `req.body`. The individual fields inside the body object are named according to the `name` attribute on your inputs (the value of `<input name="messageText">` will show up as `req.body.messageText` inside the `router.post` function).
+  9. In your `router.post()` take the contents of the form submission and push them into the messages array as an object that looks something like this:
+    
+        messages.push({text: messageText, user: messageUser, added: new Date()});
+    
+
+  10. At the end of the `router.post()` function use `res.redirect('/')` to send users back to the index page after submitting a new message.
+  11. At this point, you should be able to visit `/new` (it might be a good idea to add a link to that route on your index page), fill out the form, submit it and then see it show up on the index page!
+  12. You’ll learn how to deploy your app to the web in the [next lesson](https://www.theodinproject.com/lessons/nodejs-deployment), don’t forget to come back and submit it to the submissions below once you’re done!
+
+[ Improve on GitHub Github logo icon Improve on GitHub
+](https://github.com/TheOdinProject/curriculum/edit/main/nodeJS/express_and_mongoose/project_mini_message_board.md)
+[ Report an issueReport icon Report an issue
+](https://github.com/TheOdinProject/curriculum/issues/new?labels=Status%3A+Needs+Triage&lesson-
+link=https%3A%2F%2Fwww.theodinproject.com%2Flessons%2Fnodejs-mini-message-
+board&template=suggestion.yaml&title=Mini+Message+Board%3A+%3CShort+description+of+your+suggestion%3E)
+
+#### Lesson contents
+
+Only logged in users can view user submissions for this project
+
+[ View courseGo to course page View Course ](/paths/full-stack-
+javascript/courses/nodejs) [Sign in to track progress](/sign_in) [ Next
+lessonGo to next lesson Next Lesson ](/lessons/nodejs-deployment)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

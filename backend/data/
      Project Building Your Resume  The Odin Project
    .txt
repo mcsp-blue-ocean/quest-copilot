@@ -1,0 +1,143 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![Getting Hired](/assets/badge-getting-
+hired-03b3463749a1cd7dd5358c585b0c35c2878bbde91aa0800f641992eeb69f7c66.svg)
+](/paths/full-stack-javascript/courses/getting-hired)
+
+#  Project: Building Your Resume
+
+[
+
+##  Getting Hired Course
+
+](https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-
+hired)
+
+### Introduction
+
+The goal of a resume is to get them interested enough to start a conversation.
+From there, it’s on you to speak intelligently about the things you’ve done.
+So don’t treat the resume as the catch-all repository of your whole life –
+it’s more of a focused marketing tool designed to make you seem worth taking
+another look at.
+
+A developer’s resume is an interesting thing because so much of your value is
+demonstrated from your projects, which live in your GitHub (and are hopefully
+also deployed somewhere online). Despite this focus on projects, you can’t
+ignore previous work experience or education. They are both important for
+showing the social proof that other people have worked with you before and
+you’ve met their standards for applying.
+
+It’s difficult to come up with (or find on the internet) a standard resume
+type for a junior developer. Most of the ones out there aren’t particularly
+inspiring. The keys to remember are the perspective of the hiring manager we
+talked about before – that person wants to hire a developer who is highly
+capable and can get shit done (and will add value ASAP).
+
+The hiring manager will determine these criteria in less than 10 seconds at
+first glance based on where you’ve been educated, who’s hired you before, and
+if you’ve got any really interesting projects that stand out. The hiring
+manager rapidly builds a story of who you are based on those headline items of
+your resume. If you’re lucky, that high level story will seem interesting
+enough for the hiring manager or HR person to look twice and actually read
+what you did at each job and then bring you in for an interview.
+
+Knowing that perspective, how can you play to it? It’s difficult if you’re
+breaking into a new industry so you’ll need to emphasize relevant education,
+work experience and projects in a way that crafts a story of drive and
+capability. What have you done that shows you’re highly capable (e.g. your
+technical chops, any recognition you’ve received, leadership of teams)? And
+can get shit done (e.g. interesting projects, open source contributions)?
+
+Remember: ONE PAGE.
+
+  * [This Career Tool Belt article lists 6 free resume builder websites](https://www.careertoolbelt.com/5-best-free-resume-builder-websites/)
+  * [Novorésumé also has a free tier with templates available, as an alternate resource](https://novoresume.com/)
+  * [Formatting could use some work, but here’s an example resume from CareerCup.com](http://www.careercup.com/resume)
+  * [Another great (totally free) resume builder](https://flowcv.io/)
+
+### Optional reading
+
+  * [Getting Your Résumé Read, by Joel Spolsky](http://www.joelonsoftware.com/articles/ResumeRead.html)
+
+[ Improve on GitHub Github logo icon Improve on GitHub
+](https://github.com/TheOdinProject/curriculum/edit/main/getting_hired/applying_and_interviewing/project_resume.md)
+[ Report an issueReport icon Report an issue
+](https://github.com/TheOdinProject/curriculum/issues/new?labels=Status%3A+Needs+Triage&lesson-
+link=https%3A%2F%2Fwww.theodinproject.com%2Flessons%2Fnode-path-getting-hired-
+building-your-
+resume&template=suggestion.yaml&title=Building+Your+Resume%3A+%3CShort+description+of+your+suggestion%3E)
+
+#### Lesson contents
+
+[ View courseGo to course page View Course ](/paths/full-stack-
+javascript/courses/getting-hired) [Sign in to track progress](/sign_in) [ Next
+lessonGo to next lesson Next Lesson ](/lessons/node-path-getting-hired-
+applying-for-web-development-jobs)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

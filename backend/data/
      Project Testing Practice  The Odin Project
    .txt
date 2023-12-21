@@ -1,0 +1,139 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![JavaScript](/assets/badge-
+javascript-626af7075a7914bc4f30bd941268ed883785c3fb29b3e9d023eb5ab6450353bb.svg)
+](/paths/full-stack-javascript/courses/javascript)
+
+#  Project: Testing Practice
+
+[
+
+##  JavaScript Course
+
+](https://www.theodinproject.com/paths/full-stack-
+javascript/courses/javascript)
+
+### Introduction
+
+Let’s practice! This testing thing really is not that difficult, but it _is_
+quite new. The only way to get comfortable with it is to spend some time doing
+it.
+
+### Using ES6 import statements with Jest
+
+By default, the current version of Jest will not recognize ES6 import
+statements. In order for you to be able to use ES6 modules for this project
+you may follow the [Jest instructions for using
+Babel](https://jestjs.io/docs/en/getting-started#using-babel).
+
+### Assignment
+
+Write tests for the following, and then make the tests pass!
+
+  1. A `capitalize` function that takes a string and returns it with the first character capitalized.
+
+  2. A `reverseString` function that takes a string and returns it reversed.
+
+  3. A `calculator` object that contains functions for the basic operations: `add`, `subtract`, `divide`, and `multiply`. Each of these functions should take two numbers and return the correct calculation.
+
+  4. A `caesarCipher` function that takes a string and a shift factor and returns it with each character “shifted”. Read more about how a Caesar cipher works on [this website](https://crypto.interactive-maths.com/caesar-shift-cipher.html).
+
+    1. Don’t forget to test wrapping from `z` to `a`.
+    2. Don’t forget to test keeping the same case.
+    3. Don’t forget to test punctuation!
+    4. For this one, you may want to split the final function into a few smaller functions. One concept of Testing is that you don’t need to explicitly test _every_ function you write… Just the public ones. So in this case you only need tests for the final `caesarCipher` function. If it works as expected you can rest assured that your smaller helper functions are doing what they’re supposed to.
+  5. An `analyzeArray` function that takes an array of numbers and returns an object with the following properties: `average`, `min`, `max`, and `length`.
+    
+        const object = analyzeArray([1,8,3,4,2,6]);
+    
+    object == {
+      average: 4,
+      min: 1,
+      max: 8,
+      length: 6
+    };
+    
+
+[ Improve on GitHub Github logo icon Improve on GitHub
+](https://github.com/TheOdinProject/curriculum/edit/main/javascript/testing_javascript/project_testing_practice.md)
+[ Report an issueReport icon Report an issue
+](https://github.com/TheOdinProject/curriculum/issues/new?labels=Status%3A+Needs+Triage&lesson-
+link=https%3A%2F%2Fwww.theodinproject.com%2Flessons%2Fnode-path-javascript-
+testing-
+practice&template=suggestion.yaml&title=Testing+Practice%3A+%3CShort+description+of+your+suggestion%3E)
+
+#### Lesson contents
+
+Only logged in users can view user submissions for this project
+
+[ View courseGo to course page View Course ](/paths/full-stack-
+javascript/courses/javascript) [Sign in to track progress](/sign_in) [ Next
+lessonGo to next lesson Next Lesson ](/lessons/node-path-javascript-more-
+testing)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

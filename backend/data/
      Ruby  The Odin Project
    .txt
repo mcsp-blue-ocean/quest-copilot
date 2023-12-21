@@ -1,0 +1,369 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![Ruby](/assets/badge-
+ruby-d91c1849066ed424531394e9d693dd99aaef49bcee15a96f462a1ae54c359af0.svg)
+](/paths/full-stack-ruby-on-rails/courses/ruby)
+
+[
+
+#  Ruby Course
+
+](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby)
+
+## Overview
+
+Time to dive deep into Ruby, the language 'designed for programmer happiness.'
+You'll cover object-oriented design, testing, and data structures – essential
+knowledge for learning other programming languages, too!
+
+###  Introduction
+
+[ Lesson
+
+How This Course Will Work
+
+](https://www.theodinproject.com/lessons/ruby-how-this-course-will-work)
+
+[ Lesson
+
+Installing Ruby
+
+](https://www.theodinproject.com/lessons/ruby-installing-ruby)
+
+###  Basic Ruby
+
+[ Lesson
+
+Basic Data Types
+
+](https://www.theodinproject.com/lessons/ruby-basic-data-types)
+
+[ Lesson
+
+Variables
+
+](https://www.theodinproject.com/lessons/ruby-variables)
+
+[ Lesson
+
+Input and Output
+
+](https://www.theodinproject.com/lessons/ruby-input-and-output)
+
+[ Lesson
+
+Conditional Logic
+
+](https://www.theodinproject.com/lessons/ruby-conditional-logic)
+
+[ Lesson
+
+Loops
+
+](https://www.theodinproject.com/lessons/ruby-loops)
+
+[ Lesson
+
+Arrays
+
+](https://www.theodinproject.com/lessons/ruby-arrays)
+
+[ Lesson
+
+Hashes
+
+](https://www.theodinproject.com/lessons/ruby-hashes)
+
+[ Lesson
+
+Methods
+
+](https://www.theodinproject.com/lessons/ruby-methods)
+
+[ Lesson
+
+Debugging
+
+](https://www.theodinproject.com/lessons/ruby-debugging)
+
+[ Lesson
+
+Basic Enumerable Methods
+
+](https://www.theodinproject.com/lessons/ruby-basic-enumerable-methods)
+
+[ Lesson
+
+Predicate Enumerable Methods
+
+](https://www.theodinproject.com/lessons/ruby-predicate-enumerable-methods)
+
+[ Lesson
+
+Nested Collections
+
+](https://www.theodinproject.com/lessons/ruby-nested-collections)
+
+###  Basic Ruby Projects
+
+[ Project
+
+Project: Caesar Cipher
+
+](https://www.theodinproject.com/lessons/ruby-caesar-cipher)
+
+[ Project
+
+Project: Sub Strings
+
+](https://www.theodinproject.com/lessons/ruby-sub-strings)
+
+[ Project
+
+Project: Stock Picker
+
+](https://www.theodinproject.com/lessons/ruby-stock-picker)
+
+[ Project
+
+Project: Bubble Sort
+
+](https://www.theodinproject.com/lessons/ruby-bubble-sort)
+
+###  Object Oriented Programming Basics
+
+[ Lesson
+
+Object Oriented Programming
+
+](https://www.theodinproject.com/lessons/ruby-object-oriented-programming)
+
+[ Project
+
+Project: Tic Tac Toe
+
+](https://www.theodinproject.com/lessons/ruby-tic-tac-toe)
+
+[ Project
+
+Project: Mastermind
+
+](https://www.theodinproject.com/lessons/ruby-mastermind)
+
+###  Files and Serialization
+
+[ Lesson
+
+Files and Serialization
+
+](https://www.theodinproject.com/lessons/ruby-files-and-serialization)
+
+[ Project
+
+Project: Event Manager
+
+](https://www.theodinproject.com/lessons/ruby-event-manager)
+
+[ Project
+
+Project: Hangman
+
+](https://www.theodinproject.com/lessons/ruby-hangman)
+
+###  Advanced Ruby
+
+[ Lesson
+
+Pattern Matching
+
+](https://www.theodinproject.com/lessons/ruby-pattern-matching)
+
+[ Lesson
+
+Blocks
+
+](https://www.theodinproject.com/lessons/ruby-blocks)
+
+[ Project
+
+Project: Custom Enumerables
+
+](https://www.theodinproject.com/lessons/ruby-custom-enumerables)
+
+###  A Bit of Computer Science
+
+[ Lesson
+
+A Very Brief Intro to CS
+
+](https://www.theodinproject.com/lessons/ruby-a-very-brief-intro-to-cs)
+
+[ Lesson
+
+Recursive Methods
+
+](https://www.theodinproject.com/lessons/ruby-recursive-methods)
+
+[ Project
+
+Project: Recursion
+
+](https://www.theodinproject.com/lessons/ruby-recursion)
+
+[ Lesson
+
+Time Complexity
+
+](https://www.theodinproject.com/lessons/ruby-time-complexity)
+
+[ Lesson
+
+Space Complexity
+
+](https://www.theodinproject.com/lessons/ruby-space-complexity)
+
+[ Lesson
+
+Common Data Structures and Algorithms
+
+](https://www.theodinproject.com/lessons/ruby-common-data-structures-and-
+algorithms)
+
+[ Project
+
+Project: Linked Lists
+
+](https://www.theodinproject.com/lessons/ruby-linked-lists)
+
+[ Project
+
+Project: Binary Search Trees
+
+](https://www.theodinproject.com/lessons/ruby-binary-search-trees)
+
+[ Project
+
+Project: Knights Travails
+
+](https://www.theodinproject.com/lessons/ruby-knights-travails)
+
+###  Intermediate Git
+
+[ Lesson
+
+A Deeper Look at Git
+
+](https://www.theodinproject.com/lessons/ruby-a-deeper-look-at-git)
+
+[ Lesson
+
+Working with Remotes
+
+](https://www.theodinproject.com/lessons/ruby-working-with-remotes)
+
+[ Lesson
+
+Using Git in the Real World
+
+](https://www.theodinproject.com/lessons/ruby-using-git-in-the-real-world)
+
+###  Testing Ruby with RSpec
+
+[ Lesson
+
+Test Driven Development
+
+](https://www.theodinproject.com/lessons/ruby-test-driven-development)
+
+[ Lesson
+
+Introduction to RSpec
+
+](https://www.theodinproject.com/lessons/ruby-introduction-to-rspec)
+
+[ Project
+
+Project: Connect Four
+
+](https://www.theodinproject.com/lessons/ruby-connect-four)
+
+###  Conclusion
+
+[ Project
+
+Project: Ruby Final Project
+
+](https://www.theodinproject.com/lessons/ruby-ruby-final-project)
+
+[ Lesson
+
+Conclusion
+
+](https://www.theodinproject.com/lessons/ruby-conclusion)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

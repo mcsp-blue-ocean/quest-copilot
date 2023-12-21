@@ -1,0 +1,186 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![Advanced HTML and CSS](/assets/badge-html-
+css-91bc8d9c7ebb2e2f73eeb302c38a92d9ba6f182301dbd1868d7198fcc8376aeb.svg)
+](/paths/full-stack-javascript/courses/advanced-html-and-css)
+
+#  Introduction to Web Accessibility
+
+[
+
+##  Advanced HTML and CSS Course
+
+](https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-
+html-and-css)
+
+### Introduction
+
+At this point in the curriculum you’ve learned incredibly valuable concepts in
+whichever full stack path you chose, you’ve created some awesome, resume
+worthy projects, and you should have a better understanding of some HTML and
+CSS concepts. One could even argue that you may now love working with CSS…?
+
+What you may not have too much an understanding of, though, is the topic of
+accessibility, often referred to as “a11y” (due to there being 11 letters
+between the first and last letters). Unfortunately, this is a topic that many
+people either don’t know much about, or just don’t take into account when
+developing websites. If you fit into either of those two categories, you may
+have adopted some habits that aren’t exactly a11y friendly. Before we get into
+how you can break away from such habits and begin implementing a11y friendly
+concepts, it’s important to first understand some basic information about web
+accessibility.
+
+### Learning outcomes
+
+By the end of this lesson, you should be able to:
+
+  * Explain what web accessibility is.
+
+### What is web accessibility?
+
+Web accessibility means that websites, tools, and technologies are designed
+and developed so that people with disabilities and other circumstantial
+limitations can use them with as few barriers as possible.
+
+There are different types of disabilities, including (but not limited to)
+auditory, physical/motor, cognitive, or visual. A disability can be permanent,
+such as a user who is completely blind or deaf, or it can be temporary, such
+as a user with a broken arm. Users can have multiple disabilities at any given
+time. Older users with changing abilities may even have similar conditions as
+those who have a disability.
+
+Situational limitations are a little different. Using a phone outside on a
+bright day, browsing a site with one hand while you’re busy doing something
+else with the other, or living in an area where the internet is slow or the
+bandwidth is expensive are all examples of situational limitations. These
+limitations, unlike a disability, occur to users only in specific situations,
+but are still important to keep in mind when developing a website.
+
+### Why web accessibility matters
+
+Let’s first look at a non-web example to gain a little perspective. Imagine
+being in a multi-storied building that has no elevator. For some people, this
+might only be an annoyance. “Huh, no elevator. I guess I’ll walk up a few
+flights of stairs, then.” A person that requires a wheelchair, however, would
+find it impossible, or at the very least much more difficult, to go anywhere
+beyond the first floor. Even if a person in a wheelchair had someone to lift
+the wheelchair up each step, it would be a much more difficult process. The
+point here is that an elevator would have made this building more accessible.
+
+The building is your website, and the elevator is a collection of various
+accessibility features and tools (…it’s a pretty big elevator). When you
+develop a website, you’re developing it for users, and you need that website
+to actually be _usable_ by them. People with disabilities, older people with
+changing abilities, people who aren’t as tech savvy, and people with some sort
+of situational limitation are still users, and websites should be as equally
+usable by them as possible.
+
+One other pretty big reason that accessibility matters is that, depending on
+the country, there could actually be laws _requiring_ accessibility to be
+implemented.
+
+### Assignment
+
+  1. Go through [Diverse Abilities and Barriers](https://www.w3.org/WAI/people-use-web/abilities-barriers/) to get a better understanding of how some users with disabilities are affected by inaccessible sites.
+  2. Watch the videos on [Web Accessibility Perspectives](https://www.w3.org/WAI/perspective-videos/) to see how (and which) users can benefit from accessibility features. Each video is pretty short and has audio descriptions and transcripts. If you prefer, the page also has a link to a compiled version of all of the videos on YouTube.
+
+### Knowledge check
+
+This section contains questions for you to check your understanding of this
+lesson. If you’re having trouble answering the questions below on your own,
+review the material above to find the answer.
+
+  * What is web accessibility?
+  * Who truly benefits from accessibility features?
+
+### Additional resources
+
+This section contains helpful links to other content. It isn’t required, so
+consider it supplemental.
+
+  * [The Business Case for Digital Accessibility](https://www.w3.org/WAI/business-case/) goes over reasons for implementing accessibility beyond just being more inclusive to more users.
+  * [How People with Disabilities Access Digital Content](https://www.youtube.com/watch?v=Lu7a5RU5lM0) is a rather long video (a whopping 45 minutes), but it goes over a lot of various assistive technologies and will offer you some more perspective on how users with disabilities may browse the websites you create.
+  * [When we design for disability, we all benefit](https://www.youtube.com/watch?v=g2m97gPI70I) is a video featuring Elise Roy that furthers the point mentioned in this lesson, that accessibility benefits everyone. While this video is a more general overview that doesn’t revolve around web development specifically, it can still be an eye-opening experience.
+
+[ Improve on GitHub Github logo icon Improve on GitHub
+](https://github.com/TheOdinProject/curriculum/edit/main/advanced_html_css/accessibility/introduction_to_web_accessibility.md)
+[ Report an issueReport icon Report an issue
+](https://github.com/TheOdinProject/curriculum/issues/new?labels=Status%3A+Needs+Triage&lesson-
+link=https%3A%2F%2Fwww.theodinproject.com%2Flessons%2Fnode-path-advanced-html-
+and-css-introduction-to-web-
+accessibility&template=suggestion.yaml&title=Introduction+to+Web+Accessibility%3A+%3CShort+description+of+your+suggestion%3E)
+
+#### Lesson contents
+
+[ View courseGo to course page View Course ](/paths/full-stack-
+javascript/courses/advanced-html-and-css) [Sign in to track
+progress](/sign_in) [ Next lessonGo to next lesson Next Lesson
+](/lessons/node-path-advanced-html-and-css-the-web-content-accessibility-
+guidelines-wcag)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

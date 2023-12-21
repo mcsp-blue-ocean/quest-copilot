@@ -1,0 +1,159 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![React](/assets/badge-
+react-d347c579ca6df9afc0ef4127bb4fe6dc4002be06cb241f4d70b37c412f56cec2.svg)
+](/paths/full-stack-ruby-on-rails/courses/react)
+
+#  Using Ruby On Rails For Your Backend
+
+[
+
+##  React Course
+
+](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/react)
+
+### Introduction
+
+So, you’ve now learned a lot of juicy JavaScript, enabling you to make various
+components of your HTML/CSS page react to user actions and/or input. That’s
+great! As you’ve seen, you can get your apps to do a lot of pretty cool things
+already, just using client-side JavaScript. You may have noticed, though, that
+there is still an important piece of the puzzle missing: unless you use [Local
+Storage](http://coding.smashingmagazine.com/2010/10/11/local-storage-and-how-
+to-use-it/), your app ‘forgets’ the user’s preferences, as well as any other
+changes made, as soon as the page gets reloaded.
+
+While Local Storage is great, it’s not ideal: it only stores data on the
+computer from which the user is accessing the page. This approach does not
+allow for the app to ‘remember’ anything when the same user tries to access it
+again from a different device. For that, you’re going to need a real backend.
+
+### Learning outcomes
+
+By the end of this lesson, you should be able to:
+
+  * Explain how “unobtrusive JavaScript” works
+  * Explain how to pass data from your Rails application to your JavaScript
+  * Explain why you should use AJAX to load large batches of data
+
+### Building your own backend with Ruby on Rails
+
+Since you’ve already learned Ruby on Rails in our [full-stack Ruby on Rails
+path](https://www.theodinproject.com/paths/full-stack-ruby-on-rails), the next
+step is obvious: you get to build your own backend with Rails! In preparation,
+reread the [Rails lesson on building an
+API](https://www.theodinproject.com/lessons/ruby-on-rails-apis-and-building-
+your-own) to refresh how to set up a Rails backend that can handle JSON
+requests.
+
+Are you done? Good. Next, it’s time to practice allowing your front end
+JavaScript to talk to your Rails backend using AJAX. We’ll cover some best
+practices for how to pass data from one to another, but otherwise it’s up to
+you: you’ve got everything you need to put together those final pieces of the
+web development puzzle.
+
+### Assignment
+
+  1. [Check out “Using JavaScript in your Rails App” from Daniel Kehoe](http://railsapps.github.io/rails-javascript-include-external.html). It is long and covers a lot of ground, but it’s got great content. Some of the stuff on dependencies can be skimmed, but pay attention to the `content_for` stuff at the bottom.
+
+  2. [Refresh yourself on Rails AJAX from RailsGuides](https://guides.rubyonrails.org/v6.1/working_with_javascript_in_rails.html) (just skim the top few sections).
+
+  3. Read [Bootstrapping JSON data into a Rails View](https://web.archive.org/web/20221230234727/https://jfire.io/blog/2012/04/30/how-to-securely-bootstrap-json-in-a-rails-view/) to learn about passing data to your front end.
+
+### Additional resources
+
+This section contains helpful links to other content. It isn’t required, so
+consider it supplemental.
+
+  * [How to Build a fullstack Rails 7 backend with React Frontend](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-ruby-on-rails-v7-project-with-a-react-frontend-on-ubuntu-20-04)
+  * [Grabbing your Rails form CSRF token with JavaScript so Rails doesn’t yell at you with “Warning, can’t verify CSRF token authenticity”, via SO](http://stackoverflow.com/questions/7203304/warning-cant-verify-csrf-token-authenticity-rails)
+  * [… and another SO post on the CSRF token](http://stackoverflow.com/questions/8503447/rails-how-to-add-csrf-protection-to-forms-created-in-javascript)
+
+### Knowledge check
+
+  * [ How do you load custom JavaScript in a given Rails view page? ](https://railsapps.github.io/rails-javascript-include-external.html#locations)
+  * [How does “unobtrusive JavaScript” work?](https://guides.rubyonrails.org/v6.1/working_with_javascript_in_rails.html#unobtrusive-javascript)
+  * [How can you pass data from your Rails app to your JavaScript?](https://railsapps.github.io/rails-javascript-include-external.html#parameters)
+  * [Why would you want to use AJAX to load large batches of data?](https://guides.rubyonrails.org/v6.1/working_with_javascript_in_rails.html#an-introduction-to-ajax)
+
+[ Improve on GitHub Github logo icon Improve on GitHub
+](https://github.com/TheOdinProject/curriculum/edit/main/react/react_and_the_backend/using_ruby_on_rails_for_your_backend.md)
+[ Report an issueReport icon Report an issue
+](https://github.com/TheOdinProject/curriculum/issues/new?labels=Status%3A+Needs+Triage&lesson-
+link=https%3A%2F%2Fwww.theodinproject.com%2Flessons%2Freact-new-using-ruby-on-
+rails-for-your-
+backend&template=suggestion.yaml&title=Using+Ruby+On+Rails+For+Your+Backend%3A+%3CShort+description+of+your+suggestion%3E)
+
+#### Lesson contents
+
+[ View courseGo to course page View Course ](/paths/full-stack-ruby-on-
+rails/courses/react) [Sign in to track progress](/sign_in) [ Next lessonGo to
+next lesson Next Lesson ](/lessons/react-new-where-s-waldo-a-photo-tagging-
+app)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

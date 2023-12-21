@@ -1,0 +1,394 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![Foundations](/assets/badge-
+foundations-4a1f6ae4009e6156a289aef0a3897283ff0e3fe1af6b5795aaf7260619dc11f4.svg)
+](/paths/foundations/courses/foundations)
+
+[
+
+#  Foundations Course
+
+](https://www.theodinproject.com/paths/foundations/courses/foundations)
+
+## Overview
+
+This is where it all begins! A hands-on introduction to all of the essential
+tools you'll need to build real, working websites. You'll learn what web
+developers actually do – the foundations you'll need for later courses.
+
+###  Introduction
+
+[ Lesson
+
+How This Course Will Work
+
+](https://www.theodinproject.com/lessons/foundations-how-this-course-will-
+work)
+
+[ Lesson
+
+Introduction to Web Development
+
+](https://www.theodinproject.com/lessons/foundations-introduction-to-web-
+development)
+
+[ Lesson
+
+Motivation and Mindset
+
+](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset)
+
+[ Lesson
+
+Asking For Help
+
+](https://www.theodinproject.com/lessons/foundations-asking-for-help)
+
+[ Lesson
+
+Join the Odin Community
+
+](https://www.theodinproject.com/lessons/foundations-join-the-odin-community)
+
+###  Prerequisites
+
+[ Lesson
+
+Computer Basics
+
+](https://www.theodinproject.com/lessons/foundations-computer-basics)
+
+[ Lesson
+
+How Does the Web Work?
+
+](https://www.theodinproject.com/lessons/foundations-how-does-the-web-work)
+
+[ Lesson
+
+Installation Overview
+
+](https://www.theodinproject.com/lessons/foundations-installation-overview)
+
+[ Lesson
+
+Installations
+
+](https://www.theodinproject.com/lessons/foundations-installations)
+
+[ Lesson
+
+Text Editors
+
+](https://www.theodinproject.com/lessons/foundations-text-editors)
+
+[ Lesson
+
+Command Line Basics
+
+](https://www.theodinproject.com/lessons/foundations-command-line-basics)
+
+[ Lesson
+
+Setting up Git
+
+](https://www.theodinproject.com/lessons/foundations-setting-up-git)
+
+###  Git Basics
+
+[ Lesson
+
+Introduction to Git
+
+](https://www.theodinproject.com/lessons/foundations-introduction-to-git)
+
+[ Lesson
+
+Git Basics
+
+](https://www.theodinproject.com/lessons/foundations-git-basics)
+
+###  HTML Foundations
+
+[ Lesson
+
+Introduction to HTML and CSS
+
+](https://www.theodinproject.com/lessons/foundations-introduction-to-html-and-
+css)
+
+[ Lesson
+
+Elements and Tags
+
+](https://www.theodinproject.com/lessons/foundations-elements-and-tags)
+
+[ Lesson
+
+HTML Boilerplate
+
+](https://www.theodinproject.com/lessons/foundations-html-boilerplate)
+
+[ Lesson
+
+Working with Text
+
+](https://www.theodinproject.com/lessons/foundations-working-with-text)
+
+[ Lesson
+
+Lists
+
+](https://www.theodinproject.com/lessons/foundations-lists)
+
+[ Lesson
+
+Links and Images
+
+](https://www.theodinproject.com/lessons/foundations-links-and-images)
+
+[ Lesson
+
+Commit Messages
+
+](https://www.theodinproject.com/lessons/foundations-commit-messages)
+
+[ Project
+
+Project: Recipes
+
+](https://www.theodinproject.com/lessons/foundations-recipes)
+
+###  CSS Foundations
+
+[ Lesson
+
+Intro to CSS
+
+](https://www.theodinproject.com/lessons/foundations-intro-to-css)
+
+[ Lesson
+
+The Cascade
+
+](https://www.theodinproject.com/lessons/foundations-the-cascade)
+
+[ Lesson
+
+Inspecting HTML and CSS
+
+](https://www.theodinproject.com/lessons/foundations-inspecting-html-and-css)
+
+[ Lesson
+
+The Box Model
+
+](https://www.theodinproject.com/lessons/foundations-the-box-model)
+
+[ Lesson
+
+Block and Inline
+
+](https://www.theodinproject.com/lessons/foundations-block-and-inline)
+
+###  Flexbox
+
+[ Lesson
+
+Introduction to Flexbox
+
+](https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox)
+
+[ Lesson
+
+Growing and Shrinking
+
+](https://www.theodinproject.com/lessons/foundations-growing-and-shrinking)
+
+[ Lesson
+
+Axes
+
+](https://www.theodinproject.com/lessons/foundations-axes)
+
+[ Lesson
+
+Alignment
+
+](https://www.theodinproject.com/lessons/foundations-alignment)
+
+[ Project
+
+Project: Landing Page
+
+](https://www.theodinproject.com/lessons/foundations-landing-page)
+
+###  JavaScript Basics
+
+[ Lesson
+
+Fundamentals Part 1
+
+](https://www.theodinproject.com/lessons/foundations-fundamentals-part-1)
+
+[ Lesson
+
+Fundamentals Part 2
+
+](https://www.theodinproject.com/lessons/foundations-fundamentals-part-2)
+
+[ Lesson
+
+JavaScript Developer Tools
+
+](https://www.theodinproject.com/lessons/foundations-javascript-developer-
+tools)
+
+[ Lesson
+
+Fundamentals Part 3
+
+](https://www.theodinproject.com/lessons/foundations-fundamentals-part-3)
+
+[ Lesson
+
+Problem Solving
+
+](https://www.theodinproject.com/lessons/foundations-problem-solving)
+
+[ Lesson
+
+Understanding Errors
+
+](https://www.theodinproject.com/lessons/foundations-understanding-errors)
+
+[ Project
+
+Project: Rock Paper Scissors
+
+](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors)
+
+[ Lesson
+
+Clean Code
+
+](https://www.theodinproject.com/lessons/foundations-clean-code)
+
+[ Lesson
+
+Installing Node.js
+
+](https://www.theodinproject.com/lessons/foundations-installing-node-js)
+
+[ Lesson
+
+Fundamentals Part 4
+
+](https://www.theodinproject.com/lessons/foundations-fundamentals-part-4)
+
+[ Lesson
+
+DOM Manipulation and Events
+
+](https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-
+events)
+
+[ Lesson
+
+Revisiting Rock Paper Scissors
+
+](https://www.theodinproject.com/lessons/foundations-revisiting-rock-paper-
+scissors)
+
+[ Project
+
+Project: Etch-a-Sketch
+
+](https://www.theodinproject.com/lessons/foundations-etch-a-sketch)
+
+[ Lesson
+
+Fundamentals Part 5
+
+](https://www.theodinproject.com/lessons/foundations-fundamentals-part-5)
+
+[ Project
+
+Project: Calculator
+
+](https://www.theodinproject.com/lessons/foundations-calculator)
+
+###  Conclusion
+
+[ Lesson
+
+Choose Your Path Forward
+
+](https://www.theodinproject.com/lessons/foundations-choose-your-path-forward)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

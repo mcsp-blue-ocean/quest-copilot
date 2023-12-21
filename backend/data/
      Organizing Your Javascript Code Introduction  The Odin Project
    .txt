@@ -1,0 +1,129 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![JavaScript](/assets/badge-
+javascript-626af7075a7914bc4f30bd941268ed883785c3fb29b3e9d023eb5ab6450353bb.svg)
+](/paths/full-stack-javascript/courses/javascript)
+
+#  Organizing Your Javascript Code Introduction
+
+[
+
+##  JavaScript Course
+
+](https://www.theodinproject.com/paths/full-stack-
+javascript/courses/javascript)
+
+### Organizing your JavaScript code
+
+One of the most daunting parts of JavaScript is learning how to organize your
+code. The reason this subject can be so overwhelming is _not_ because
+JavaScript is so much more complex than other languages, but because it is
+incredibly forgiving! Many languages force you into using specific patterns
+and data structures in your code, but that is not true in JavaScript.
+
+In the beginning, this is a great thing! For example, if you just want to make
+a simple button on your webpage do something, you can set that up in a couple
+lines of code. However, as your program becomes more complex, it can become
+hard to maintain unless you take care to organize your code, and because
+JavaScript is such a flexible language, how you do that is entirely up to you.
+For many coders, making decisions about design patterns is crippling, so we’re
+here to help.
+
+This lesson series is going to cover a few of the most common design patterns
+that occur in modern JavaScript code. We will discuss some pros and cons of
+each pattern and will give you a chance to practice using each pattern in a
+project.
+
+The patterns we’ll be covering in this series are:
+
+  * Plain Old JavaScript Objects and Object Constructors
+  * Factory Functions and the Module Pattern
+  * Classes
+  * ES6 Modules
+
+Going through these will give us a chance to learn about a few other important
+concepts in JavaScript such as “closure”, “prototypes”, “IIFEs” and more! This
+series covers the most important parts of JavaScript after simply learning the
+basics of the language… are you ready?
+
+[ Improve on GitHub Github logo icon Improve on GitHub
+](https://github.com/TheOdinProject/curriculum/edit/main/javascript/organizing_your_javascript_code/organizing_your_javascript_code_introduction.md)
+[ Report an issueReport icon Report an issue
+](https://github.com/TheOdinProject/curriculum/issues/new?labels=Status%3A+Needs+Triage&lesson-
+link=https%3A%2F%2Fwww.theodinproject.com%2Flessons%2Fnode-path-javascript-
+organizing-your-javascript-code-
+introduction&template=suggestion.yaml&title=Organizing+Your+Javascript+Code+Introduction%3A+%3CShort+description+of+your+suggestion%3E)
+
+#### Lesson contents
+
+[ View courseGo to course page View Course ](/paths/full-stack-
+javascript/courses/javascript) [Sign in to track progress](/sign_in) [ Next
+lessonGo to next lesson Next Lesson ](/lessons/node-path-javascript-objects-
+and-object-constructors)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

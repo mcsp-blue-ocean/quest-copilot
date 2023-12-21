@@ -1,0 +1,175 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![Foundations](/assets/badge-
+foundations-4a1f6ae4009e6156a289aef0a3897283ff0e3fe1af6b5795aaf7260619dc11f4.svg)
+](/paths/foundations/courses/foundations)
+
+#  Introduction to Git
+
+[
+
+##  Foundations Course
+
+](https://www.theodinproject.com/paths/foundations/courses/foundations)
+
+### Introduction
+
+Git is like a really **epic save button** for your files and directories.
+Officially, Git is a version control system.
+
+A _save_ in a text editor records all of the words in a document as a single
+file. You are only ever given one record of the file, such as `essay.doc`,
+unless you make duplicate copies (which is difficult to remember to do and
+keep track of):
+
+`essay-draft1.doc`, `essay-draft2.doc`, `essay-final.doc`
+
+However, a _save_ in Git records differences in the files and folders AND
+keeps a **historical record of each save**. This feature is a game changer. As
+an individual developer, Git enables you to review how your project grows and
+to easily look at or restore file states from the past. Once connected to a
+network, Git allows you to push your project to GitHub or other alternatives
+such as: Bitbucket, Beanstalk, or GitLab for sharing and collaborating with
+other developers.
+
+Please note, we **only** support GitHub within our curriculum, and will not
+help troubleshoot the alternatives.
+
+While Git works on your _local_ machine, GitHub is a _remote_ storage facility
+on the web for all your coding projects. This means that by learning Git, you
+will get to showcase your portfolio on GitHub! This is really important
+because almost all software development companies consider using Git to be an
+**essential skill** for modern web developers. Having a GitHub portfolio will
+provide proof to future potential employers as to what you are capable of.
+
+In this lesson, we will briefly explore the history of Git, what it is, and
+what it’s useful for.
+
+In the next lesson, we will go over the basic workflow for using Git, which
+should enhance your understanding and demonstrate why Git is so useful.
+
+Finally, you will set up a project with Git that will serve as a template for
+your future projects.
+
+For now, let’s learn what Git is and why it’s so powerful!
+
+### Lesson overview
+
+This section contains a general overview of topics that you will learn in this
+lesson.
+
+  * Explain what Git and GitHub are and the differences between the two.
+  * Describe the differences between Git and a text editor in terms of what they save and their record keeping.
+  * Describe why Git is useful for an individual developer and a team of developers.
+
+### Assignment
+
+  1. Read Chapter 1.1 through 1.4 in [this book about version control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) to learn the differences between local, centralized, and distributed version control systems.
+  2. Watch [this video](https://www.youtube.com/watch?v=2ReR1YJrNOM) about what Git is and how it can improve the workflow of both an individual and a team of developers.
+  3. Watch [this video](https://www.youtube.com/watch?v=1h9_cB9mPT8&feature=youtu.be&t=13s) for some history on Git and GitHub, and make sure you know the difference between the two. Git is a technology used in the command line while GitHub is a [website](https://github.com/) you can visit.
+  4. If you haven’t yet installed Git, visit the [Setting Up Git](https://www.theodinproject.com/lessons/foundations-setting-up-git) lesson.
+  5. Take a look at The Odin Project’s very own [GitHub repository](https://github.com/TheOdinProject/curriculum). This is where all the lessons are stored! While you’re there, look at all our [contributors](https://github.com/TheOdinProject/curriculum/graphs/contributors) to gain an appreciation for how Git records all collaborative efforts and how GitHub visually represents this.
+
+### Knowledge check
+
+This section contains questions for you to check your understanding of this
+lesson on your own. If you’re having trouble answering a question, click it
+and review the material it links to.
+
+  * What kind of program is Git?
+  * What are the differences between Git and a text editor in terms of what they save and their record keeping?
+  * Does Git work at a local or remote level?
+  * Does GitHub work at a local or remote level?
+  * [Why is Git useful for developers?](https://www.youtube.com/watch?v=2ReR1YJrNOM)
+  * [Why are Git and GitHub useful for a team of developers?](https://youtu.be/1h9_cB9mPT8?t=162)
+
+### Additional resources
+
+This section contains helpful links to related content. It isn’t required, so
+consider it supplemental.
+
+  * [What is Git and GitHub?](https://content.red-badger.com/resources/what-is-git-and-github)
+  * [What is version control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
+  * [What is Git](https://www.atlassian.com/git/tutorials/what-is-git)
+
+[ Improve on GitHub Github logo icon Improve on GitHub
+](https://github.com/TheOdinProject/curriculum/edit/main/git/foundations_git/introduction_to_git.md)
+[ Report an issueReport icon Report an issue
+](https://github.com/TheOdinProject/curriculum/issues/new?labels=Status%3A+Needs+Triage&lesson-
+link=https%3A%2F%2Fwww.theodinproject.com%2Flessons%2Ffoundations-
+introduction-to-
+git&template=suggestion.yaml&title=Introduction+to+Git%3A+%3CShort+description+of+your+suggestion%3E)
+
+#### Lesson contents
+
+[ View courseGo to course page View Course
+](/paths/foundations/courses/foundations) [Sign in to track
+progress](/sign_in) [ Next lessonGo to next lesson Next Lesson
+](/lessons/foundations-git-basics)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

@@ -1,0 +1,131 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![Getting Hired](/assets/badge-getting-
+hired-03b3463749a1cd7dd5358c585b0c35c2878bbde91aa0800f641992eeb69f7c66.svg)
+](/paths/full-stack-javascript/courses/getting-hired)
+
+#  Qualifying Job Leads
+
+[
+
+##  Getting Hired Course
+
+](https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-
+hired)
+
+### Introduction
+
+You should have the criteria that you use to evaluate a job already figured
+out and it should already be in your spreadsheet. Look through each lead on
+your spreadsheet and cross off the ones that fail your “must-have” criteria,
+then rank them based on your “nice-to-have” criteria. You should be able to
+easily come up with a weighting system that lets you sort the jobs in order of
+preference. Simpler is better, so no need to go overboard.
+
+Next, make a column for the percentage likelihood of getting the job with a
+reasonable effort. Multiply this with the value of the job based on the
+previous step, sort by this new “expected value”, and you should have an
+indication of which jobs are most worth your time.
+
+If the job happens to be with one of the many companies like Revature that
+offer to train you for free before contracting you out, read this [Hire Beware
+blog post](https://github.com/TheOdinProject/blog/blob/main/hire-beware.md) to
+learn more about these less-than-ideal opportunities. Part of the reason for
+qualifying the leads is to make sure you don’t get sucked into a process and
+waste a bunch of time applying to jobs that you wouldn’t actually take anyway.
+That’s surprisingly easy. You’ll still be able to send out “practice”
+applications, but at least now you know which companies are worth sending
+those out to.
+
+Some other criteria to think about in the “nice-to-have” column:
+
+  * How easily can I continue to learn at that job?
+  * Is there access to mentors and teaching?
+  * How good are my peers who I can learn from?
+  * How much would I like going into work each day?
+  * What are the job-security risks of the job? Corporations aren’t lock-tight just because they’re big… they go through restructuring phases and lay off people with little good reason.
+  * Does it pay well enough to support me?
+  * Does its location fit the needs of me and my family?
+  * How long do I want this (first) job for?
+
+[ Improve on GitHub Github logo icon Improve on GitHub
+](https://github.com/TheOdinProject/curriculum/edit/main/getting_hired/applying_and_interviewing/qualify_leads.md)
+[ Report an issueReport icon Report an issue
+](https://github.com/TheOdinProject/curriculum/issues/new?labels=Status%3A+Needs+Triage&lesson-
+link=https%3A%2F%2Fwww.theodinproject.com%2Flessons%2Fnode-path-getting-hired-
+qualifying-job-
+leads&template=suggestion.yaml&title=Qualifying+Job+Leads%3A+%3CShort+description+of+your+suggestion%3E)
+
+#### Lesson contents
+
+[ View courseGo to course page View Course ](/paths/full-stack-
+javascript/courses/getting-hired) [Sign in to track progress](/sign_in) [ Next
+lessonGo to next lesson Next Lesson ](/lessons/node-path-getting-hired-
+building-your-resume)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

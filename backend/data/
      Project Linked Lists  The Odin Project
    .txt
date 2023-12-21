@@ -1,0 +1,166 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![JavaScript](/assets/badge-
+javascript-626af7075a7914bc4f30bd941268ed883785c3fb29b3e9d023eb5ab6450353bb.svg)
+](/paths/full-stack-javascript/courses/javascript)
+
+#  Project: Linked Lists
+
+[
+
+##  JavaScript Course
+
+](https://www.theodinproject.com/paths/full-stack-
+javascript/courses/javascript)
+
+### Introduction
+
+In Computer Science, one of the most basic and fundamental data structures is
+the linked list, which functions similarly to an array. The principal benefit
+of a linked list over a conventional array is that the list elements can
+easily be inserted or removed without reallocation of any other elements.
+
+In some programming languages, the size of an array is a concern and one of
+the ways to overcome that problem and allow dynamically allocated data is
+using linked lists.
+
+Luckily in **Javascript** , arrays aren’t limited to a certain size, and both
+insertion and deletion can be done trivially at any index using the
+appropriate built in array method, so you don’t have to think about overcoming
+those limitations.
+
+So if array size, array insertion and array deletion are not limitations in
+Javascript, are linked lists really necessary? The short answer to that is
+_no_ ; however, it’s the simplest of the dynamic data structures and it will
+give you a solid foundation, so you can understand more complex data
+structures like graphs and binary trees with more ease.
+
+### Structure of a linked list
+
+A _linked list_ is a linear collection of data elements called nodes that
+“point” to the next node by means of a pointer.
+
+Each node holds a single element of data and a link or pointer to the next
+node in the list.
+
+A head node is the first node in the list, a tail node is the last node in the
+list. Below is a basic representation of a linked list:
+
+`[ NODE(head) ] -> [ NODE ] -> [ NODE(tail) ] -> null`
+
+For a more thorough explanation, use these resources:
+
+  1. [Linked Lists in Plain English](https://www.youtube.com/watch?v=oiW79L8VYXk)
+  2. [What’s a Linked List, Anyway?](https://dev.to/vaidehijoshi/whats-a-linked-list-anyway)
+  3. [A more verbose explanation with plenty of diagrams](https://web.archive.org/web/20200217010131/http://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/linked%20lists.html)
+
+### Assignment
+
+You will need two classes or factories:
+
+  1. `LinkedList` class / factory, which will represent the full list.
+  2. `Node` class / factory, containing a `value` property and a link to the `nextNode`, set both as `null` by default.
+
+Build the following functions in your linked list class:
+
+  1. `append(value)` adds a new node containing `value` to the end of the list
+  2. `prepend(value)` adds a new node containing `value` to the start of the list
+  3. `size` returns the total number of nodes in the list
+  4. `head` returns the first node in the list
+  5. `tail` returns the last node in the list
+  6. `at(index)` returns the node at the given `index`
+  7. `pop` removes the last element from the list
+  8. `contains(value)` returns true if the passed in value is in the list and otherwise returns false.
+  9. `find(value)` returns the index of the node containing value, or null if not found.
+  10. `toString` represents your LinkedList objects as strings, so you can print them out and preview them in the console. The format should be: `( value ) -> ( value ) -> ( value ) -> null`
+
+### Extra credit
+
+  1. `insertAt(value, index)` that inserts a new node with the provided `value` at the given `index`.
+  2. `removeAt(index)` that removes the node at the given `index`.
+
+**Extra Credit Tip:** When you insert or remove a node, consider how it will
+affect the existing nodes. Some of the nodes will need their `nextNode` link
+updated.
+
+[ Improve on GitHub Github logo icon Improve on GitHub
+](https://github.com/TheOdinProject/curriculum/edit/main/javascript/computer_science/project_linked_lists.md)
+[ Report an issueReport icon Report an issue
+](https://github.com/TheOdinProject/curriculum/issues/new?labels=Status%3A+Needs+Triage&lesson-
+link=https%3A%2F%2Fwww.theodinproject.com%2Flessons%2Fjavascript-linked-
+lists&template=suggestion.yaml&title=Linked+Lists%3A+%3CShort+description+of+your+suggestion%3E)
+
+#### Lesson contents
+
+Only logged in users can view user submissions for this project
+
+[ View courseGo to course page View Course ](/paths/full-stack-
+javascript/courses/javascript) [Sign in to track progress](/sign_in) [ Next
+lessonGo to next lesson Next Lesson ](/lessons/javascript-binary-search-trees)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

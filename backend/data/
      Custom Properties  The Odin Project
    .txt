@@ -1,0 +1,325 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![Intermediate HTML and CSS](/assets/badge-html-
+css-91bc8d9c7ebb2e2f73eeb302c38a92d9ba6f182301dbd1868d7198fcc8376aeb.svg)
+](/paths/full-stack-javascript/courses/intermediate-html-and-css)
+
+#  Custom Properties
+
+[
+
+##  Intermediate HTML and CSS Course
+
+](https://www.theodinproject.com/paths/full-stack-
+javascript/courses/intermediate-html-and-css)
+
+### Introduction
+
+Custom properties (also known as CSS variables) can be a really useful and
+powerful tool when writing our CSS files. In short, they allow us to reference
+a CSS value however many times we want throughout a file. By using custom
+properties, instead of having to update every single instance of a specific
+value (“This shade of red is too light, let’s change the shade on all seven of
+these selectors”), we only need to update a single instance: the custom
+property itself. Not only that, but custom properties can help us keep colors
+consistent throughout a project, something that will be really helpful as
+projects get larger.
+
+We can even redefine custom properties under different contexts, which is
+incredibly useful for creating themes, such as the dark and light themes you
+see on many websites these days.
+
+### Learning outcomes
+
+  * You’ll learn how to declare a custom property
+  * You’ll learn how to access a custom property in a rule declaration
+
+### Using custom properties
+
+The syntax for declaring and accessing a custom property is really simple and
+not too different from how we write normal rule declarations:
+
+    
+    
+    .error-modal {
+      --color-error-text: red;
+      --modal-border: 1px solid black;
+      --modal-font-size: calc(2rem + 5vw);
+    
+      color: var(--color-error-text);
+      border: var(--modal-border);
+      font-size: var(--modal-font-size);
+    }
+    
+
+That’s it! First, we declare our custom property with a double hyphen followed
+by a case-sensitive, hyphen-separated property name (`color-error-text`
+wouldn’t be the same as `Color-Error-Text`). The use of Kebab case (single
+hyphens to separate words) is very important here because spaces are not valid
+(`--color error text` would not work). Then we can store any valid CSS value
+in our newly declared custom property, whether it be a simple color value,
+shorthand values, or even a more complex function, just to give you a few
+examples.
+
+When we want to access a custom property, we use the `var()` function as the
+value of a CSS property, and then place our custom property inside of the
+parenthesis (including the double hyphen at the beginning).
+
+#### Fallback values
+
+The `var()` function actually accepts two parameters. The first parameter
+we’ve already gone over, which is the custom property we want to assign. The
+second parameter is an optional fallback value. When a fallback value is
+provided in addition to a custom property, the fallback value will be used if
+the custom property is invalid or hasn’t been declared yet. We can even pass
+in _another_ custom property as a fallback, which can have _its own_ fallback
+value as well!
+
+    
+    
+    .fallback {
+      --color-text: white;
+    
+      background-color: var(--undeclared-property, black);
+      color: var(--undeclared-again, var(--color-text, yellow));
+    }
+    
+
+In the above example, our `background-color` property would have a value of
+`black` and our `color` property would have a value of `white`. If the
+`--color-text` custom property was invalid or didn’t exist, the fallback to
+our fallback would take over and the `color` property would have a value of
+`yellow`.
+
+### Scope
+
+In the first example above, you may have noticed that we declared and then
+accessed our custom properties within the same declaration block. That’s
+because the scope of a custom property is determined by the selector. This
+scope includes the selector the custom property was declared for as well as
+any descendants of that selector. If you’re familiar with how scope works in
+JavaScript, this sort of behavior should feel a little similar.
+
+In the example below, only the element with the `cool-paragraph` class would
+get styled with a red background since it’s a descendant of the element where
+our custom property is declared.
+
+    
+    
+    <div class='cool-div'>
+      <p class='cool-paragraph'>Check out my cool, red background!</p>
+    </div>
+    
+    <p class='boring-paragraph'>I'm not in scope so I'm not cool.</p>
+    
+    
+    
+    .cool-div {
+      --main-bg: red;
+    }
+    
+    .cool-paragraph {
+      background-color: var(--main-bg);
+    }
+    
+    .boring-paragraph {
+      background-color: var(--main-bg);
+    }
+    
+
+#### The :root selector
+
+While there may be times where you will want to limit the scope of a custom
+property, you may want to be able to use other custom properties on many,
+unrelated selectors. One workaround would be declaring the same custom
+property on a bunch of selectors, but that defeats one of the purposes of
+using custom properties in the first place (the ease of changing multiple
+instances of a value at once).
+
+A better solution is declaring those custom properties on the `:root`
+selector, which is essentially the same thing as the `html` selector except it
+has a higher specificity.
+
+    
+    
+    <p class='cool-paragraph'>Lorem ipsum dolor sit amet.</p>
+    
+    <p class='exciting-paragraph'>Lorem ipsum dolor sit amet.</p>
+    
+    
+    
+    :root {
+      --main-color: red;
+    }
+    
+    .cool-paragraph {
+      color: var(--main-color);
+    }
+    
+    .exciting-paragraph {
+      background-color: var(--main-color);
+    }
+    
+
+By declaring our custom property on the `:root` selector in the example above,
+we can access it on _any_ other valid selector within our CSS file, since any
+other selector would be considered a descendant of the `:root` selector.
+
+### Creating themes with custom properties
+
+Beyond allowing us to access custom properties more globally, the `:root`
+selector gives us one way to add themes to our pages:
+
+See the Pen [ Theme Toggle | CSS Custom
+Properties](https://codepen.io/TheOdinProjectExamples/pen/PojVRMb) by
+TheOdinProject
+([@TheOdinProjectExamples](https://codepen.io/TheOdinProjectExamples)) on
+[CodePen](https://codepen.io).
+
+First we used JavaScript to add a `class` attribute on our `html` element (We
+don’t have direct access to the `html` element in the HTML tab on codepen, but
+you should be able to see the class being applied in the browser’s inspector)
+so that our page has a default theme. Next in our CSS we created two scopes
+for our custom properties on the `:root` selector, one for when our `html` (or
+root) element has a class of `dark` and another for when it has a class of
+`light`. Our other selectors then use the values of any custom properties
+depending on which class is currently present on our root element.
+
+#### Media queries
+
+Giving users the ability to toggle a theme themselves is great, but there’s
+another option for setting a theme that you may have come across on certain
+sites or applications: using the user’s theme setting from their operating
+system or user agent (like a browser). This can be accomplished with the
+`prefers-color-scheme` media query, which simply checks whether a user has
+selected a theme preference on their OS/user agent. As you view the example
+below, try changing the theme settings on your OS/user agent to see how the
+example updates in real time!
+
+See the Pen [ Theme Query | CSS Custom
+Properties](https://codepen.io/TheOdinProjectExamples/pen/powGZzE) by
+TheOdinProject
+([@TheOdinProjectExamples](https://codepen.io/TheOdinProjectExamples)) on
+[CodePen](https://codepen.io).
+
+We first added custom properties on the `:root` element outside of the media
+query. This gives us a default theme in case a user doesn’t have a preference
+set on their OS or user agent, or if a browser doesn’t support the media
+query. In this case, we’re using our “light” theme colors as the default. Then
+we added a `prefers-color-scheme` media query for when a user has a dark theme
+set in their preferences.
+
+Using the `prefers-color-scheme` media query can be pretty helpful for users
+since it doesn’t require them to manually change the theme to their preferred
+one. That said, you need to be aware of a few things when it comes to using
+this media query:
+
+  1. Only `dark` and `light` are valid values for the media query, so you can’t use it to implement any themes beyond these two basic ones.
+  2. The `light` value for the media query is actually for when a user has a light theme specified _or_ when they have no preference set.
+  3. It doesn’t allow users to change the theme themselves, which can still be important in cases where a user might want to use the theme opposite of their OS/user agent preferred one for whatever reason.
+
+### Assignment
+
+  1. This [video on CSS custom properties](https://www.youtube.com/watch?v=PHO6TBq_auI) is a great introduction. Go ahead and watch it.
+  2. Read through MDN’s [Using CSS custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties#inheritance_of_custom_properties) page starting at the “Inheritance of custom properties” section.
+  3. Open the inspector on this page to inspect the styles and see how Odin uses some custom properties.
+
+### Knowledge check
+
+This section contains questions for you to check your understanding of this
+lesson. If you’re having trouble answering the questions below on your own,
+review the material above to find the answer.
+
+  * How would you declare a custom property with a name of `text-color`?
+  * How would you access a custom property with a name of `background-color`?
+  * Where would you declare a custom property to have its scope be global and accessible by all other selectors?
+  * Where would you declare a custom property so that a user’s theme setting from their OS or browser was taken into account?
+
+### Additional resources
+
+This section contains helpful links to other content. It isn’t required, so
+consider it supplemental for if you need to dive deeper into something.
+
+  * It looks like this lesson doesn’t have any additional resources yet. Help us expand this section by contributing to our curriculum.
+
+[ Improve on GitHub Github logo icon Improve on GitHub
+](https://github.com/TheOdinProject/curriculum/edit/main/intermediate_html_css/intermediate_css_concepts/custom_properties.md)
+[ Report an issueReport icon Report an issue
+](https://github.com/TheOdinProject/curriculum/issues/new?labels=Status%3A+Needs+Triage&lesson-
+link=https%3A%2F%2Fwww.theodinproject.com%2Flessons%2Fnode-path-intermediate-
+html-and-css-custom-
+properties&template=suggestion.yaml&title=Custom+Properties%3A+%3CShort+description+of+your+suggestion%3E)
+
+#### Lesson contents
+
+[ View courseGo to course page View Course ](/paths/full-stack-
+javascript/courses/intermediate-html-and-css) [Sign in to track
+progress](/sign_in) [ Next lessonGo to next lesson Next Lesson
+](/lessons/node-path-intermediate-html-and-css-browser-compatibility)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+

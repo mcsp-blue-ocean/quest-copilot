@@ -1,0 +1,150 @@
+Close sidebar
+
+[ Odin Logo ](/)
+
+[ Home icon Home ](/) [ All Paths icon All Paths
+](https://www.theodinproject.com/paths) [ About icon About ](/about) [ Support
+Us icon Support Us ](/support_us) [ Community icon Community
+](https://discord.gg/fbFCkYabZB)
+
+* * *
+
+[ Get started icon Get started ](/sign_up) [ theme icon Light mode
+](/themes?theme=dark) [ Sign in icon Sign in ](/sign_in)
+
+[ ![Odin Logo](/assets/icons/odin-
+icon-a34029cd84a741be4da27758dafd7d7ac3729021adea3e0701e310d91e5c1d04.svg)
+](/) [ Odin Logo ](/)
+
+[All Paths](https://www.theodinproject.com/paths) [About](/about)
+[Community](https://discord.gg/fbFCkYabZB) [Support us](/support_us) [Sign
+in](/sign_in) [ theme icon ](/themes?theme=dark) [Get Started](/sign_up)
+
+Open mobile menu Open mobile menu button
+
+[ ![JavaScript](/assets/badge-
+javascript-626af7075a7914bc4f30bd941268ed883785c3fb29b3e9d023eb5ab6450353bb.svg)
+](/paths/full-stack-javascript/courses/javascript)
+
+#  Project: Weather App
+
+[
+
+##  JavaScript Course
+
+](https://www.theodinproject.com/paths/full-stack-
+javascript/courses/javascript)
+
+### Introduction
+
+Use everything we’ve been discussing to create a weather forecast site using
+the weather API from the previous lesson. You should be able to search for a
+specific location and toggle displaying the data in Fahrenheit or Celsius.
+
+You should change the look of the page based on the data, maybe by changing
+the color of the background or by adding images that describe the weather.
+(You could even use the Giphy API to find appropriate weather-related gifs and
+display them). Feel free to use promises or async/await in your code, though
+you should try to become comfortable with both.
+
+#### WeatherAPI free tier
+
+After creating your API key from WeatherAPI, you will automatically be moved
+to the free tier after 14 days. This will limit the forecast data available to
+you to 3 days. You may want to keep this in mind while making design choices
+for the forecast display.
+
+### API keys, secrets, and security
+
+Not all APIs are free, and depending on how they’re set up, they can cost
+money per use. This makes them a prime target for people looking to use the
+API without paying by using **your** API key. They can also be rate-limited,
+and if someone has access to your API key they can use up all of your uses.
+One way to prevent this issue is to store your API keys on the server and
+never send them to the frontend in the first place, this is often done using
+environment variables and it makes the key available only on the server the
+code is deployed to.
+
+When talking about API keys and security you’ll often hear “Never trust the
+client” (client meaning the frontend). Often this means not to trust that data
+coming _from_ the client is valid, but it also means that you cannot trust
+anything we send _to_ the client. Because of this, when you leak an API key,
+Github will alert you that you have committed an API key publicly. After
+following this project, and indeed exposing the API key, you may notice that
+Github will send you this alert. This is totally OK for this project as this
+API key is publicly available and there is no consequence for exposing it.
+This is not to say ALL keys are this way. Later during the backend courses you
+will learn ways to securely deal with these topics.
+
+### Assignment
+
+  1. Set up a blank HTML document with the appropriate links to your JavaScript and CSS files.
+  2. Write the functions that hit the API. You’re going to want functions that can take a location and return the weather data for that location. For now, just `console.log()` the information.
+  3. Write the functions that _process_ the JSON data you’re getting from the API and return an object with only the data you require for your app.
+  4. Set up a simple form that will let users input their location and will fetch the weather info (still just `console.log()` it).
+  5. Display the information on your webpage!
+  6. Add any styling you like!
+  7. Optional: add a ‘loading’ component that displays from the time the form is submitted until the information comes back from the API. Use DevTools to test for low-end devices.
+  8. Push that baby to github and share your solution below!
+
+[ Improve on GitHub Github logo icon Improve on GitHub
+](https://github.com/TheOdinProject/curriculum/edit/main/javascript/asynchronous_javascript_and_apis/project_weather_app.md)
+[ Report an issueReport icon Report an issue
+](https://github.com/TheOdinProject/curriculum/issues/new?labels=Status%3A+Needs+Triage&lesson-
+link=https%3A%2F%2Fwww.theodinproject.com%2Flessons%2Fnode-path-javascript-
+weather-
+app&template=suggestion.yaml&title=Weather+App%3A+%3CShort+description+of+your+suggestion%3E)
+
+#### Lesson contents
+
+Only logged in users can view user submissions for this project
+
+[ View courseGo to course page View Course ](/paths/full-stack-
+javascript/courses/javascript) [Sign in to track progress](/sign_in) [ Next
+lessonGo to next lesson Next Lesson ](/lessons/javascript-a-very-brief-intro-
+to-cs)
+
+## Footer
+
+# Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners
+around the globe by supporting The Odin Project!
+
+[Learn more](/support_us) [ Donate now
+](https://opencollective.com/theodinproject/donate?amount=5)
+
+[ Odin Logo ](/)
+
+High quality coding education maintained by an open source community.
+
+[ GitHub GitHub GitHub logo ](https://github.com/TheOdinProject) [ Discord
+Discord Discord logo ](https://discord.gg/fbFCkYabZB) [ Facebook Facebook
+Facebook logo ](https://www.facebook.com/theodinproject/) [ Twitter Twitter
+Twitter logo ](https://twitter.com/TheOdinProject)
+
+### About us
+
+  * [About](/about)
+  * [Team](/team)
+  * [Blog](/blog)
+  * [Success Stories](/success_stories)
+
+### Support
+
+  * [FAQ](/faq)
+  * [Contribute](/contributing)
+  * [Contact us](/about#contact-us)
+
+### Guides
+
+  * [Community guides](/guides/community)
+  * [Installation guides](/guides/installations)
+
+### Legal
+
+  * [Terms](/terms_of_use)
+  * [Privacy](/privacy-policy)
+
+(C) 2023 The Odin Project. All rights reserved.
+
