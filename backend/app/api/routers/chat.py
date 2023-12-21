@@ -9,6 +9,7 @@ from llama_index import VectorStoreIndex
 from llama_index.llms.base import  ChatMessage
 from llama_index.llms.types import MessageRole
 from pydantic import BaseModel
+from trulens_eval import TruLlama
 
 
 
@@ -53,8 +54,13 @@ async def chat(
         for m in data.messages
     ]
 
+
+
     # query chat engine
-    chat_engine = index.as_chat_engine(chat_mode='condense_plus_context', verbose=True)
+    chat_engine = index.as_chat_engine(chat_mode='context', streaming=True)    # trulens evaluation
+    # tru_query_engine_recorder = TruLlama(chat_engine)
+   # with tru_query_engine_recorder as recording:
+        #response = chat_engine.stream_chat(lastMessage.content)
     response = chat_engine.stream_chat(lastMessage.content, messages)
 
     # stream response
