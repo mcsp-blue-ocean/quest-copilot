@@ -2,6 +2,12 @@
 
 Welcome to the dawn of a new era in software engineering! QUEST AI Copilot is not just a tool, but a revolution. It's the ally you never knew you needed, the mentor you always wished for. Today, we're not just talking about an application; we're talking about an awakening, a seismic shift in how we approach software development.
 
+<div align="center">
+
+https://github.com/mcsp-blue-ocean/quest-copilot/assets/29067169/1c5b5fc2-f655-4735-8666-963caadae2e5
+
+</div>
+
 ## Quick Understanding of Essential Software Technologies (QUEST)
 
 QUEST is a comprehensive resource for all software engineers. It's a conversational assistant leveraging cutting-edge AI, tailored specifically for you, the developers of tomorrow. By integrating Gemini AI with TruLens, we've crafted a system that understands your natural language queries and provides answers rooted in ethical, accurate AI reasoning.
